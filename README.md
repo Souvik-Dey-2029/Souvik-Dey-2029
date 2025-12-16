@@ -15,7 +15,7 @@
 - 🎓 Pursuing **B.Tech in Computer Science (AI & ML)** at **Haldia Institute of Technology**  
 - 💻 Currently learning **C programming** and building strong **HTML & CSS** foundations  
 - 🧩 Exploring **Java**, **Python**, and **Web Development**  
-- 🚀 Goal: Land a **paid internship by end of 2nd semester**  
+- 🚀 Goal: Build strong programming fundamentals and AI/ML projects to grow into a **reliable software engineer.**
 - ✨ Fun fact: I believe small daily progress builds legendary results  
 
 ---
