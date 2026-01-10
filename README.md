@@ -1,66 +1,151 @@
-<!-- GitHub Profile README for Souvik Dey -->
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#00ADB5;">Souvik Dey</span>
+</h1>
 
-<h1 align="center">Hi 👋, I'm Souvik Dey</h1>
-<h3 align="center">A creative and curious developer building my path in CSE (AI & ML) @ Haldia Institute of Technology</h3>
+<h3 align="center">
+  CSE (AI & ML) Undergraduate • Building Strong Coding Foundations • Future Software Engineer
+</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Souvik-Dey-2029&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Learning+to+Code+the+Right+Way;Focused+on+Fundamentals+%26+Projects;CSE+AI+%26+ML+Student+%40+HIT;Consistency+%3E+Motivation" />
+</p>
+
+---
+
+## 🧠 About Me
+- 🎓 **B.Tech in Computer Science (AI & ML)** @ **Haldia Institute of Technology**
+- 🌐 Completed core **HTML & CSS** and built a foundation in **JavaScript**
+- ⚙️ Currently deepening **JavaScript** with **React** and **Node.js** for frontend and backend fundamentals
+- 🐍 Moving forward to learn **Python** deeply for backend development and future AI/ML applications
+- 🛠️ Strong believer in **learning by building real projects**, not chasing shortcuts
+- 🎯 Long-term goal: Grow into a **reliable, industry-ready software engineer** with strong fundamentals
+
+> *Focused on fundamentals, consistency, and practical execution — one commit at a time.*
+
+---
+
+## 🧰 Languages & Tools (in learning order)
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <br/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 📂 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎄 Christmas Card  
+**HTML • CSS**  
+Festive card project to practice layouts, colors, and styling.  
+🔗 <a href="https://github.com/Souvik-Dey-2029/Christmas-Card">Repo</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Portfolio  
+**HTML • CSS**  
+Personal portfolio showcasing skills and learning journey.  
+🔗 <a href="https://github.com/Souvik-Dey-2029/Portfolio">Repo</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 Test Project  
+**HTML • CSS**  
+Small project made while learning Git commands and hover effects.  
+🔗 <a href="https://github.com/Souvik-Dey-2029/Test">Repo</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧑‍💻 My Portfolio (Old)  
+**HTML • CSS**  
+Earlier version showing progress and improvement over time.  
+🔗 <a href="https://github.com/Souvik-Dey-2029/My-Portfolio">Repo</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧮 Advanced Calculator  
+**Python • Tkinter**  
+Dark-themed calculator with keyboard input and extra operations.  
+🔗 <a href="https://github.com/Souvik-Dey-2029/AdvancedCalculator">Repo</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚧 More Coming Soon  
+Learning React, Node.js, and backend development.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+> Upcoming: C mini-projects, JavaScript interactions, backend practice, and AI-based experiments.
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Repos-Public-blue" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Backend-success" />
+  <img src="https://img.shields.io/badge/Learning-React%20%7C%20Node%20%7C%20Python-yellow" />
+</p>
+
+<p align="center">
+  Actively building projects and improving consistency.
+</p>
+
+---
+
+## 🧩 Dev Mindset
+> “First make it work. Then make it right. Then make it fast.”  
+> — Kent Beck
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/souvik-dey-400497366">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:souvik.business18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://github.com/Souvik-Dey-2029">
-    <img src="https://komarev.com/ghpvc/?username=Souvik-Dey-2029&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🧠 About Me  
-- 🎓 Pursuing **B.Tech in Computer Science (AI & ML)** at **Haldia Institute of Technology**  
-- 💻 Currently learning **C programming** and building strong **HTML & CSS** foundations  
-- 🧩 Exploring **Java**, **Python**, and **Web Development**  
-- 🚀 Goal: Build strong programming fundamentals and AI/ML projects to grow into a **reliable software engineer.**
-- ✨ Fun fact: I believe small daily progress builds legendary results  
-
----
-
-### 🧰 Languages & Tools
-<p>
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-</p>
-
----
-
-### 📂 Featured Projects  
-- 🌐 **Portfolio Website** — My personal creative site showcasing skills & vision  
-- 🧮 **Python Calculator** — A simple yet neat calculator using core logic and user input  
-
-> More projects coming soon: mini games, interactive websites, and AI-based tools 🚀
-
----
-
-### 📊 GitHub Stats  
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Souvik-Dey-2029&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik-Dey-2029&layout=compact&theme=radical" />
+  ⭐ <b>Learning daily. Building patiently. Growing steadily.</b>
 </p>
-
----
-
-### 🧩 Random Dev Quote
-> “Code is like humor. When you have to explain it, it’s bad.”  
-> — Cory House  
-
----
-
-### 🌐 Connect With Me  
-<p>
-  <a href="https://www.linkedin.com/in/souvik-dey-400497366"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:souvik.business18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Souvik-Dey-2029"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-⭐ **“Learning something new every day — one line of code at a time.”**  
