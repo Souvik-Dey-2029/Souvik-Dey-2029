@@ -118,6 +118,9 @@ Learning React, Node.js, and backend development.
   <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Backend-success" />
   <img src="https://img.shields.io/badge/Learning-React%20%7C%20Node%20%7C%20Python-yellow" />
 </p>
+<p align="center">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Souvik-Dey-2029&theme=tokyonight" />
+</p>
 
 <p align="center">
   Actively building projects and improving consistency.
