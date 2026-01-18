@@ -86,7 +86,7 @@ Festive card project to practice layouts, colors, and styling.
 <td width="50%" valign="top">
 
 ### 🌐 Portfolio  
-**HTML • CSS**  
+**HTML • CSS • JS**  
 Personal portfolio showcasing skills and learning journey.  
 🔗 <a href="https://github.com/Souvik-Dey-2029/Portfolio">Repo</a>
 
