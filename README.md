@@ -57,57 +57,103 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<h2 align="center">🚀 Selected Projects</h2>
+<p align="center"><i>Design-driven development • Clean code • Real-world learning</i></p>
 
-### 💊 Medicine Remminer  
-**HTML • CSS • JS**  
-Basically A Hackathon Project.  
-🔗 <a href="https://github.com/Souvik-Dey-2029/Medicine-Reminder">Repo</a>
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+<h3>💊 Medicine Reminder</h3>
+<p>
+<b>HTML • CSS • JavaScript</b><br/>
+Hackathon-based web application focused on medication adherence and accessibility.
+</p>
+
+<a href="https://github.com/Souvik-Dey-2029/Medicine-Reminder">
+🔗 View Repository →
+</a>
+
+  </td>
+  <td width="50%" valign="top">
+
+<h3>🔥 Smoke Detector System</h3>
+<p>
+<b>Arduino UNO • Embedded C</b><br/>
+Hardware-based smoke detection system developed during the SparkX event.
+</p>
+
+<a href="https://github.com/Souvik-Dey-2029/Smoke-Detector_System">
+🔗 View Repository →
+</a>
+
+  </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+<h3>🎄 Christmas Card</h3>
+<p>
+<b>HTML • CSS</b><br/>
+A festive UI project to practice layouts, color theory, and visual balance.
+</p>
+
+<a href="https://github.com/Souvik-Dey-2029/Christmas-Card">
+🔗 View Repository →
+</a>
+
+  </td>
+  <td width="50%" valign="top">
+
+<h3>🌐 Personal Portfolio</h3>
+<p>
+<b>HTML • CSS • JavaScript</b><br/>
+A minimal portfolio showcasing projects, skills, and learning journey.
+</p>
+
+<a href="https://github.com/Souvik-Dey-2029/Portfolio">
+🔗 View Repository →
+</a>
+
+  </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+<h3>🧮 Advanced Calculator</h3>
+<p>
+<b>Python • Tkinter</b><br/>
+Dark-themed calculator with keyboard input and extended operations.
+</p>
+
+<a href="https://github.com/Souvik-Dey-2029/AdvancedCalculator">
+🔗 View Repository →
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔥 Smoke Detector  
-**Arduino UNO • Embedded C / Arduino IDE**  
-SparkX Event Project.  
-🔗 <a href="https://github.com/Souvik-Dey-2029/Smoke-Detector_System">Repo</a>
+<h3>🚧 In Progress</h3>
+<p>
+<b>Web • AI/ML</b><br/>
+Exploring backend development, system design, and ML fundamentals through projects.
+</p>
 
-</td>
-<td width="50%" valign="top">
-
-### 🎄 Christmas Card  
-**HTML • CSS**  
-Festive card project to practice layouts, colors, and styling.  
-🔗 <a href="https://github.com/Souvik-Dey-2029/Christmas-Card">Repo</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Portfolio  
-**HTML • CSS • JS**  
-Personal portfolio showcasing skills and learning journey.  
-🔗 <a href="https://github.com/Souvik-Dey-2029/Portfolio">Repo</a>
-
-</td>
-</tr>
-<td width="50%" valign="top">
-
-### 🧮 Advanced Calculator  
-**Python • Tkinter**  
-Dark-themed calculator with keyboard input and extra operations.  
-🔗 <a href="https://github.com/Souvik-Dey-2029/AdvancedCalculator">Repo</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🚧 More Coming Soon  
-Learning React, Node.js, and backend development.
-
-</td>
-</tr>
+  </td>
+  </tr>
 </table>
+
+<br/>
+
+<p align="center">
+<i>Design is not decoration. Code is not accidental.</i><br/>
+<i>Building with intent, clarity, and curiosity.</i>
+</p>
+
 
 </div>
 
