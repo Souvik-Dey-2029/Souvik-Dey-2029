@@ -43,6 +43,15 @@
 </p>
 
 ---
+## 🎮 Fun Zone
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-Akhil/A-Akhil/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A-Akhil/A-Akhil/output/github-snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/A-Akhil/A-Akhil/output/github-snake.svg" />
+</picture>
+
+
+
 
 ## 📂 Featured Projects
 
@@ -50,6 +59,22 @@
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### 💊 Medicine Remminer  
+**HTML • CSS • JS**  
+Basically A Hackathon Project.  
+🔗 <a href="https://github.com/Souvik-Dey-2029/Medicine-Reminder">Repo</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔥 Smoke Detector  
+**Arduino UNO • Embedded C / Arduino IDE**  
+SparkX Event Project.  
+🔗 <a href="https://github.com/Souvik-Dey-2029/Smoke-Detector_System">Repo</a>
+
+</td>
 <td width="50%" valign="top">
 
 ### 🎄 Christmas Card  
@@ -67,27 +92,6 @@ Personal portfolio showcasing skills and learning journey.
 
 </td>
 </tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧪 Test Project  
-**HTML • CSS**  
-Small project made while learning Git commands and hover effects.  
-🔗 <a href="https://github.com/Souvik-Dey-2029/Test">Repo</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🧑‍💻 My Portfolio (Old)  
-**HTML • CSS**  
-Earlier version showing progress and improvement over time.  
-🔗 <a href="https://github.com/Souvik-Dey-2029/My-Portfolio">Repo</a>
-
-</td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🧮 Advanced Calculator  
@@ -118,9 +122,11 @@ Learning React, Node.js, and backend development.
   <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Backend-success" />
   <img src="https://img.shields.io/badge/Learning-React%20%7C%20Node%20%7C%20Python-yellow" />
 </p>
-<p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Souvik-Dey-2029&theme=tokyonight" />
-</p>
+
+![](https://github-readme-stats.vercel.app/api?username=Souvik-Dey-2029&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Souvik-Dey-2029&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik-Dey-2029&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 <p align="center">
   Actively building projects and improving consistency.
