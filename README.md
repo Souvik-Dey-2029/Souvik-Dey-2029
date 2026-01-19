@@ -5,11 +5,9 @@
 <h3 align="center">
   CSE (AI & ML) Undergraduate • Building Strong Coding Foundations • Future Software Engineer
 </h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Souvik-Dey-2029&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Learning+to+Code+the+Right+Way;Focused+on+Fundamentals+%26+Projects;CSE+AI+%26+ML+Student+%40+HIT;Consistency+%3E+Motivation" />
 </p>
@@ -41,17 +39,12 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
-
----
 ## 🎮 Fun Zone
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-Akhil/A-Akhil/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A-Akhil/A-Akhil/output/github-snake.svg" />
   <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/A-Akhil/A-Akhil/output/github-snake.svg" />
 </picture>
-
-
-
 
 ## 📂 Featured Projects
 
@@ -132,10 +125,7 @@ Exploring backend development, system design, and ML fundamentals through upcomi
 <i>Design is not decoration. Code is not accidental.</i><br/>
 <i>Building with intent, clarity, and curiosity.</i>
 </p>
-
-
 </div>
-
 
 > Upcoming: C mini-projects, JavaScript interactions, backend practice, and AI-based experiments.
 
@@ -157,13 +147,9 @@ Exploring backend development, system design, and ML fundamentals through upcomi
   Actively building projects and improving consistency.
 </p>
 
----
-
 ## 🧩 Dev Mindset
 > “First make it work. Then make it right. Then make it fast.”  
 > — Kent Beck
-
----
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -177,8 +163,6 @@ Exploring backend development, system design, and ML fundamentals through upcomi
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
   </a>
 </p>
-
----
 
 <p align="center">
   ⭐ <b>Learning daily. Building patiently. Growing steadily.</b>
