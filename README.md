@@ -56,96 +56,75 @@
 ## 📂 Featured Projects
 
 <div align="center">
-
-<h2 align="center">🚀 Selected Projects</h2>
-<p align="center"><i>Design-driven development • Clean code • Real-world learning</i></p>
-
+<h2>🚀 Selected Projects</h2>
+<p><i>Design-driven development • Clean code • Real-world learning</i></p>
 <br/>
-
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-
 <h3>💊 Medicine Reminder</h3>
 <p>
 <b>HTML • CSS • JavaScript</b><br/>
 Hackathon-based web application focused on medication adherence and accessibility.
 </p>
-
 <a href="https://github.com/Souvik-Dey-2029/Medicine-Reminder">
 🔗 View Repository →
 </a>
-
   </td>
   <td width="50%" valign="top">
-
 <h3>🔥 Smoke Detector System</h3>
 <p>
 <b>Arduino UNO • Embedded C</b><br/>
 Hardware-based smoke detection system developed during the SparkX event.
 </p>
-
 <a href="https://github.com/Souvik-Dey-2029/Smoke-Detector_System">
 🔗 View Repository →
 </a>
-
   </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
-
+<h3>🛡️ Suraksha-AI Women Safety</h3>
+<p>
+<b>Python • Pandas • Scikit-learn • Machine Learning</b><br/>
+Beginner-friendly ML classification project developed during the Suraksha.AI workshop by Team Eklavya.
+</p>
+<a href="https://github.com/Souvik-Dey-2029/Suraksha-AI_Women-Safety">
+🔗 View Repository →
+</a>
+  </td>
+  <td width="50%" valign="top">
 <h3>🎄 Christmas Card</h3>
 <p>
 <b>HTML • CSS</b><br/>
 A festive UI project to practice layouts, color theory, and visual balance.
 </p>
-
 <a href="https://github.com/Souvik-Dey-2029/Christmas-Card">
 🔗 View Repository →
 </a>
-
   </td>
+  </tr>
+  <tr>
   <td width="50%" valign="top">
-
 <h3>🌐 Personal Portfolio</h3>
 <p>
 <b>HTML • CSS • JavaScript</b><br/>
 A minimal portfolio showcasing projects, skills, and learning journey.
 </p>
-
 <a href="https://github.com/Souvik-Dey-2029/Portfolio">
 🔗 View Repository →
 </a>
-
   </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-
-<h3>🧮 Advanced Calculator</h3>
-<p>
-<b>Python • Tkinter</b><br/>
-Dark-themed calculator with keyboard input and extended operations.
-</p>
-
-<a href="https://github.com/Souvik-Dey-2029/AdvancedCalculator">
-🔗 View Repository →
-</a>
-
-</td>
-<td width="50%" valign="top">
-
+  <td width="50%" valign="top">
 <h3>🚧 In Progress</h3>
 <p>
 <b>Web • AI/ML</b><br/>
-Exploring backend development, system design, and ML fundamentals through projects.
+Exploring backend development, system design, and ML fundamentals through upcoming projects.
 </p>
-
   </td>
   </tr>
 </table>
+</div>
 
 <br/>
 
