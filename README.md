@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  CSE (AI & ML) Undergraduate • Building Strong Coding Foundations • Future Software Engineer
+  CSE (AI & ML) Undergraduate • Building Strong Coding Foundations • Future Software Engineer(AI/ML)
 </h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Souvik-Dey-2029&label=Profile%20Views&color=0e75b6&style=flat" />
