@@ -87,12 +87,12 @@ Beginner-friendly ML classification project developed during the Suraksha.AI wor
 </a>
   </td>
   <td width="50%" valign="top">
-<h3>🎄 Christmas Card</h3>
+<h3>Campus Utility HUB</h3>
 <p>
-<b>HTML • CSS</b><br/>
-A festive UI project to practice layouts, color theory, and visual balance.
+<b>HTML • CSS • JS</b><br/>
+A web-based platform that provides essential student tools for quick calculations, tracking, and productivity.
 </p>
-<a href="https://github.com/Souvik-Dey-2029/Christmas-Card">
+<a href="https://github.com/Souvik-Dey-2029/campus-utility-hub">
 🔗 View Repository →
 </a>
   </td>
