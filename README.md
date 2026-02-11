@@ -46,78 +46,43 @@
   <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/A-Akhil/A-Akhil/output/github-snake.svg" />
 </picture>
 
+---------------------------------------------------------------------------------------------------------------
+
 ## 📂 Featured Projects
 
 <div align="center">
-<h2>🚀 Selected Projects</h2>
-<p><i>Design-driven development • Clean code • Real-world learning</i></p>
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Real-world+learning+through+building+🚀)
+
 <br/>
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-<h3>💊 Medicine Reminder</h3>
-<p>
-<b>HTML • CSS • JavaScript</b><br/>
-Hackathon-based web application focused on medication adherence and accessibility.
-</p>
-<a href="https://github.com/Souvik-Dey-2029/Medicine-Reminder">
-🔗 View Repository →
-</a>
-  </td>
-  <td width="50%" valign="top">
-<h3>🔥 Smoke Detector System</h3>
-<p>
-<b>Arduino UNO • Embedded C</b><br/>
-Hardware-based smoke detection system developed during the SparkX event.
-</p>
-<a href="https://github.com/Souvik-Dey-2029/Smoke-Detector_System">
-🔗 View Repository →
-</a>
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-<h3>🛡️ Suraksha-AI Women Safety</h3>
-<p>
-<b>Python • Pandas • Scikit-learn • Machine Learning</b><br/>
-Beginner-friendly ML classification project developed during the Suraksha.AI workshop by Team Eklavya.
-</p>
-<a href="https://github.com/Souvik-Dey-2029/Suraksha-AI_Women-Safety">
-🔗 View Repository →
-</a>
-  </td>
-  <td width="50%" valign="top">
-<h3>Campus Utility HUB</h3>
-<p>
-<b>HTML • CSS • JS</b><br/>
-A web-based platform that provides essential student tools for quick calculations, tracking, and productivity.
-</p>
-<a href="https://github.com/Souvik-Dey-2029/campus-utility-hub">
-🔗 View Repository →
-</a>
-  </td>
-  </tr>
-  <tr>
-  <td width="50%" valign="top">
-<h3>🌐 Personal Portfolio</h3>
-<p>
-<b>HTML • CSS • JavaScript</b><br/>
-A minimal portfolio showcasing projects, skills, and learning journey.
-</p>
-<a href="https://github.com/Souvik-Dey-2029/Portfolio">
-🔗 View Repository →
-</a>
-  </td>
-  <td width="50%" valign="top">
-<h3>🚧 In Progress</h3>
-<p>
-<b>Web • AI/ML</b><br/>
-Exploring backend development, system design, and ML fundamentals through upcoming projects.
-</p>
-  </td>
-  </tr>
-</table>
+
 </div>
+
+| 🌾 **BharatFarm** | 🎓 **Campus Utility HUB** |
+|:---:|:---:|
+| [![BharatFarm](https://github-readme-stats.vercel.app/api/pin/?username=Souvik-Dey-2029&repo=BharatFarm&theme=radical&border_color=30363d&bg_color=0d1117)](https://github.com/Souvik-Dey-2029/BharatFarm) | [![Campus-Utility-Hub](https://github-readme-stats.vercel.app/api/pin/?username=Souvik-Dey-2029&repo=campus-utility-hub&theme=radical&border_color=30363d&bg_color=0d1117)](https://github.com/Souvik-Dey-2029/campus-utility-hub) |
+| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| Smart agriculture platform with weather monitoring, disease detection, and crop planning for Indian farmers | Web-based platform providing essential student tools for quick calculations, tracking, and productivity |
+
+| 🛡️ **Suraksha-AI Women Safety** | 🔥 **Smoke Detector System** |
+|:---:|:---:|
+| [![Suraksha-AI](https://github-readme-stats.vercel.app/api/pin/?username=Souvik-Dey-2029&repo=Suraksha-AI_Women-Safety&theme=radical&border_color=30363d&bg_color=0d1117)](https://github.com/Souvik-Dey-2029/Suraksha-AI_Women-Safety) | [![Smoke-Detector](https://github-readme-stats.vercel.app/api/pin/?username=Souvik-Dey-2029&repo=Smoke-Detector_System&theme=radical&border_color=30363d&bg_color=0d1117)](https://github.com/Souvik-Dey-2029/Smoke-Detector_System) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![Embedded](https://img.shields.io/badge/Embedded-FF6F00?style=flat&logo=raspberrypi&logoColor=white) |
+| ML classification project for women safety developed during Suraksha.AI workshop by Team Eklavya | Hardware-based smoke detection system using real-time sensors developed during SparkX event |
+
+| 💊 **Medicine Reminder** | 🚧 **In Progress** |
+|:---:|:---:|
+| [![Medicine-Reminder](https://github-readme-stats.vercel.app/api/pin/?username=Souvik-Dey-2029&repo=Medicine-Reminder&theme=radical&border_color=30363d&bg_color=0d1117)](https://github.com/Souvik-Dey-2029/Medicine-Reminder) | ![Coming Soon](https://img.shields.io/badge/Coming_Soon-🚀-blueviolet?style=for-the-badge) |
+| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Web](https://img.shields.io/badge/Web-FF6B6B?style=flat&logo=google-chrome&logoColor=white) ![AI/ML](https://img.shields.io/badge/AI/ML-4ECDC4?style=flat&logo=tensorflow&logoColor=white) ![Backend](https://img.shields.io/badge/Backend-95E1D3?style=flat&logo=node.js&logoColor=black) |
+| Hackathon web application focused on medication adherence and accessibility | Exploring backend development, system design, and ML fundamentals |
+
+<div align="center">
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</div>
+
+---------------------------------------------------------------------------------------------------------------
 
 <br/>
 
