@@ -16,9 +16,6 @@
 
 ## 🧠 About Me
 - 🎓 **B.Tech in Computer Science (AI & ML)** @ **Haldia Institute of Technology**
-- 🌐 Completed core **HTML & CSS** and built a foundation in **JavaScript**
-- ⚙️ Currently deepening **JavaScript** with **React** and **Node.js** for frontend and backend fundamentals
-- 🐍 Moving forward to learn **Python** deeply for backend development and future AI/ML applications
 - 🛠️ Strong believer in **learning by building real projects**, not chasing shortcuts
 - 🎯 Long-term goal: Grow into a **reliable, industry-ready software engineer** with strong fundamentals
 
