@@ -23,25 +23,64 @@
 
 ---
 
-## 🧰 Languages & Tools (in learning order)
+---
+
+## 🧰 Tech Stack
 <p align="center">
+
+  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-004482?style=flat&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+
   <br/>
+
+  <!-- Web Development -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+
+  <br/>
+
+  <!-- AI / ML & Data -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=flat"/>
+
+  <br/>
+
+  <!-- Hardware / IoT -->
+  <img src="https://img.shields.io/badge/Embedded%20C-004482?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino%20UNO-00979D?style=flat&logo=arduino&logoColor=white"/>
+
+  <br/>
+
+  <!-- Development Tools -->
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=flat&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+
+  <br/>
+
+  <!-- Cloud / Platforms -->
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
+
 </p>
+
+---
+
 ## 🎮 Fun Zone
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-Akhil/A-Akhil/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A-Akhil/A-Akhil/output/github-snake.svg" />
   <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/A-Akhil/A-Akhil/output/github-snake.svg" />
 </picture>
+
+---
 
 ---------------------------------------------------------------------------------------------------------------
 
