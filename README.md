@@ -27,58 +27,63 @@
 
 ## 🧰 Tech Stack
 
+<br/>
+
 <table>
 <tr>
-<td width="70%">
+<td valign="top" width="65%">
 
-<p align="center">
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+### 🌐 Web
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
 
-<br/>
+### 🤖 Data & ML
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge"/>
+</p>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+### 🔧 Hardware
+<p>
+  <img src="https://img.shields.io/badge/Embedded%20C-004482?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino%20UNO-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=flat"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Embedded%20C-004482?style=flat&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino%20UNO-00979D?style=flat&logo=arduino&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terminal-4D4D4D?style=flat&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
-
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </p>
 
 </td>
 
-<td width="30%">
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWt4MDZ4ZWEzaG1sbWs2YWJpZWp4b3I5c3AxYnNwZXdxYm5hbHgzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LSKHkpRJySs5W81D7B/giphy.gif" width="280"/>
-
+<td valign="middle" width="35%" align="center">
+  <br/><br/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWt4MDZ4ZWEzaG1sbWs2YWJpZWp4b3I5c3AxYnNwZXdxYm5hbHgzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LSKHkpRJySs5W81D7B/giphy.gif" width="260" style="border-radius: 12px;"/>
+  <br/><br/>
 </td>
+
 </tr>
 </table>
+
+<br/>
 
 ---
 
