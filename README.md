@@ -23,6 +23,9 @@
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Souvik-Dey-2029&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ---
 
 ## 🧰 Tech Stack
