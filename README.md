@@ -113,14 +113,15 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-swart-eta-25.vercel.app/api?username=Souvik-Dey-2029&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=e2d9c0&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats-swart-eta-25.vercel.app/api/top-langs/?username=Souvik-Dey-2029&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=e2d9c0" />
+<img height="180em" src="https://github-readme-stats-swart-eta-25.vercel.app/api?username=Souvik-Dey-2029&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=4D96FF&text_color=F8F9FA&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats-swart-eta-25.vercel.app/api/top-langs/?username=Souvik-Dey-2029&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=FFD93D&text_color=F8F9FA" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=Souvik-Dey-2029&hide_border=true&background=0d1117&stroke=00E5FF&ring=00E5FF&fire=FFA500&currStreakLabel=00E5FF&sideLabels=e2d9c0&dates=8b8070&currStreakNum=F0C040&sideNums=e2d9c0" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=Souvik-Dey-2029&hide_border=true&background=0d1117&stroke=FF6B6B&ring=FFD93D&fire=FF9F1C&currStreakLabel=00E5FF&sideLabels=F8F9FA&dates=CDB4DB&currStreakNum=6BCB77&sideNums=4D96FF" />
 
 
 <p align="center">
