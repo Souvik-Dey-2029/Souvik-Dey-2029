@@ -23,8 +23,18 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Souvik-Dey-2029&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 📈 Contribution Activity
+<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Souvik-Dey-2029&theme=tokyo-night&hide_border=true"/>
+</p>
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Souvik-Dey-2029&theme=onedark&row=2&column=4" />
+</p>
+
+
 
 ---
 
@@ -101,12 +111,6 @@
 
 ---------------------------------------------------------------------------------------------------------------
 
-## 📈 Contribution Activity
-<div align="center">
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Souvik-Dey-2029&theme=tokyo-night&hide_border=true"/>
-</p>
-</div>
 
 
 ## 📊 GitHub Stats
