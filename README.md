@@ -14,15 +14,6 @@
 
 ---
 
-## 🧠 About Me
-- 🎓 **B.Tech in Computer Science (AI & ML)** @ **Haldia Institute of Technology**
-- 🛠️ Strong believer in **learning by building real projects**, not chasing shortcuts
-- 🎯 Long-term goal: Grow into a **reliable, industry-ready software engineer** with strong fundamentals
-
-> *Focused on fundamentals, consistency, and practical execution — one commit at a time.*
-
----
-
 ## 📈 Contribution Activity
 <div align="center">
 <p align="center">
@@ -34,7 +25,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Souvik-Dey-2029&theme=onedark&row=2&column=4" />
 </p>
 
+---
 
+## 🧠 About Me
+- 🎓 **B.Tech in Computer Science (AI & ML)** @ **Haldia Institute of Technology**
+- 🛠️ Strong believer in **learning by building real projects**, not chasing shortcuts
+- 🎯 Long-term goal: Grow into a **reliable, industry-ready software engineer** with strong fundamentals
+
+> *Focused on fundamentals, consistency, and practical execution — one commit at a time.*
 
 ---
 
