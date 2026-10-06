@@ -65,10 +65,6 @@
 
 ### GitHub Activity &amp; Contribution Stream
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Souvik-Dey-2029/Souvik-Dey-2029/output/github-snake-dark.svg" width="100%" alt="Souvik Dey's Contribution Snake Animation" />
-</p>
-
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" align="center" valign="middle">
