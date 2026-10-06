@@ -4,7 +4,7 @@
 
 <img src="./assets/about-life.svg?v=3" width="100%" alt="Building things that matter — from idea to impact. Full-stack engineering, AI/ML engineering, open source & systems." />
 
-<img src="./assets/stack.svg?v=3" width="100%" alt="Technical Skills: Languages (C++, Python, Java, JavaScript, TypeScript, C, HTML5/CSS3), Frameworks (React.js, Next.js, Node.js, Express.js, Tailwind CSS, Flutter/Dart), AI/ML & Backend (FastAPI, PyTorch, MongoDB, Claude, Gemini API, Scikit-learn, TensorFlow.js, Pandas, NumPy)." />
+<img src="./assets/stack.svg?v=4" width="100%" alt="Technical Skills: Languages (C, C++, Java, Python, JavaScript), Web & Applications (HTML5, CSS3, JavaScript, React, Node.js, FastAPI), AI/ML & Data (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow / TensorFlow.js, Machine Learning), Databases & Tools (MongoDB, Git, GitHub, VS Code), Cloud & Deployment (Render, Vercel, Google Cloud)." />
 
 ### Things I've built
 
@@ -19,7 +19,7 @@
 
 <img src="./assets/awards.svg?v=2" width="100%" alt="Souvik Dey history awards & badges: 100 Days Badge, 50 Days Active Streak, Jun Badge." />
 
-<img src="./assets/id-dashboard.svg?v=2" width="100%" alt="Souvik Dey builder ID and public dashboard: AI/ML builder pass, repositories, and current focus." />
+<img src="./assets/id-dashboard.svg?v=3" width="100%" alt="Souvik Dey builder ID and public dashboard: AI/ML builder pass, repositories, and current focus." />
 
 ### GitHub Activity & Contribution Stream
 
