@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg?v=10" width="100%" alt="Hi, I'm Souvik Dey — CSE (AI & ML) at Haldia Institute of Technology. Building intelligent software and real-world systems." />
+  <img src="./assets/hero.svg?v=11" width="100%" alt="Hi, I'm Souvik Dey — CSE (AI & ML) at Haldia Institute of Technology. Building intelligent software and real-world systems." />
 </p>
 
 <img src="./assets/about-life.svg?v=10" width="100%" alt="Building things that matter — from idea to impact. Full-stack engineering, AI/ML engineering, open source & systems." />
