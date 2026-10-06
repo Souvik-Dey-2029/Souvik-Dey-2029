@@ -17,23 +17,29 @@
 | [**Medicine Reminder Pro**](https://souvikdey.me/projects) | Intelligent medication management & adherence tracking with smart alerts | HealthTech + PWA |
 | [**MediGuard AI**](https://souvikdey.me/projects) | Automated prescription validation & clinical interaction safety checker | Healthcare + ML |
 
+<img src="./assets/awards.svg?v=2" width="100%" alt="Souvik Dey history awards & badges: 100 Days Badge, 50 Days Active Streak, Jun Badge." />
+
 <img src="./assets/id-dashboard.svg?v=2" width="100%" alt="Souvik Dey builder ID and public dashboard: AI/ML builder pass, repositories, and current focus." />
 
-### GitHub Activity & Analytics
+### GitHub Activity & Contribution Stream
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Souvik-Dey-2029&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070b16&title_color=247bff&icon_color=247bff&text_color=9db2d1" width="49%" alt="Souvik's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Souvik-Dey-2029&theme=tokyonight&hide_border=true&background=070b16&stroke=247bff&ring=247bff&fire=ff354f&currStreakNum=f2f5ff&sideNums=9db2d1&currStreakLabel=247bff&sideLabels=8e9db9" width="49%" alt="Souvik's GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Souvik-Dey-2029/Souvik-Dey-2029/output/github-snake-dark.svg" width="100%" alt="Souvik Dey's Contribution Snake Animation" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Souvik-Dey-2029/Souvik-Dey-2029/output/github-snake-dark.svg" width="100%" alt="Souvik's Contribution Activity Snake" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=Souvik-Dey-2029&show_icons=true&bg_color=080e1a&title_color=00D9FF&text_color=adbed8&icon_color=247bff&border_color=1f3554" width="100%" alt="Souvik Dey GitHub Stats" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://streak-stats.demolab.com?user=Souvik-Dey-2029&background=080e1a&border=1f3554&stroke=1f3554&ring=00D9FF&fire=247bff&currStreakLabel=00D9FF&sideLabels=adbed8&dates=8e9db9" width="100%" alt="Souvik Dey GitHub Streak Stats" />
+    </td>
+  </tr>
+</table>
 
-### Awards & Verified Credentials
-
 <p align="center">
-  <img src="./assets/badges_banner.png" width="100%" alt="LeetCode & GitHub Achievements and Badges" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik-Dey-2029&layout=compact&bg_color=080e1a&title_color=00D9FF&text_color=adbed8&border_color=1f3554" width="60%" alt="Top Languages" />
 </p>
 
 <img src="./assets/connect.svg?v=2" width="100%" alt="Let's build something great. Connect on LinkedIn, explore portfolio, browse projects, or send an email." />
