@@ -4,7 +4,7 @@
 
 <img src="./assets/about-life.svg?v=5" width="100%" alt="Building things that matter — from idea to impact. Full-stack engineering, AI/ML engineering, open source & systems." />
 
-<img src="./assets/stack.svg?v=7" width="100%" alt="Technical Skills: Languages (C, C++, Java, Python, JavaScript), Web & Applications (HTML5, CSS3, JavaScript, React, Node.js, FastAPI), AI/ML & Data (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow / TensorFlow.js, Machine Learning), Databases & Tools (MongoDB, Git, GitHub, VS Code), Cloud & Deployment (Render, Vercel, Google Cloud, PWA)." />
+<img src="./assets/stack.svg?v=8" width="100%" alt="Technical Skills: Languages (C, C++, Java, Python, JavaScript), Web & Applications (HTML5, CSS3, JavaScript, React, Node.js, FastAPI), AI/ML & Data (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow / TensorFlow.js, Machine Learning), Databases & Tools (MongoDB, Git, GitHub, VS Code), Cloud & Deployment (Render, Vercel, Google Cloud, PWA)." />
 
 ### Things I've built
 
