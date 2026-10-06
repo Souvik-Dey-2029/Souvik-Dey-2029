@@ -4,7 +4,7 @@
 
 <img src="./assets/about-life.svg?v=2" width="100%" alt="Intelligent software and AI systems, spatial tech, real-world field workflows, clean architectures." />
 
-<img src="./assets/stack.svg?v=2" width="100%" alt="My stack: C++, Python, Java, React, JavaScript, Node.js, FastAPI, PyTorch, MongoDB." />
+<img src="./assets/stack.svg?v=3" width="100%" alt="Technical Skills: Languages (C++, Python, Java, JavaScript, TypeScript, C, HTML5/CSS3), Frameworks (React.js, Next.js, Node.js, Express.js, Tailwind CSS, Flutter/Dart), AI/ML & Backend (FastAPI, PyTorch, MongoDB, Claude, Gemini API, Scikit-learn, TensorFlow.js, Pandas, NumPy)." />
 
 ### Things I've built
 
