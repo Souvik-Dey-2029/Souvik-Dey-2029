@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/hero.svg?v=1" width="100%" alt="Hi, I'm Souvik Dey — CSE (AI & ML) at Haldia Institute of Technology. Building intelligent software and real-world systems." />
+  <img src="./assets/hero.svg?v=2" width="100%" alt="Hi, I'm Souvik Dey — CSE (AI & ML) at Haldia Institute of Technology. Building intelligent software and real-world systems." />
 </p>
 
-<img src="./assets/about-life.svg?v=1" width="100%" alt="Intelligent software and AI systems, spatial tech, real-world field workflows, clean architectures." />
+<img src="./assets/about-life.svg?v=2" width="100%" alt="Intelligent software and AI systems, spatial tech, real-world field workflows, clean architectures." />
 
-<img src="./assets/stack.svg?v=1" width="100%" alt="My stack: C++, Python, Java, React, JavaScript, Node.js, FastAPI, PyTorch, MongoDB." />
+<img src="./assets/stack.svg?v=2" width="100%" alt="My stack: C++, Python, Java, React, JavaScript, Node.js, FastAPI, PyTorch, MongoDB." />
 
 ### Things I've built
 
@@ -17,9 +17,9 @@
 | [**Medicine Reminder Pro**](https://souvikdey.me/projects) | Intelligent medication management & adherence tracking with smart alerts | HealthTech + PWA |
 | [**MediGuard AI**](https://souvikdey.me/projects) | Automated prescription validation & clinical interaction safety checker | Healthcare + ML |
 
-<img src="./assets/id-dashboard.svg?v=1" width="100%" alt="Souvik Dey builder ID and public dashboard: AI/ML builder pass, repositories, and current focus." />
+<img src="./assets/id-dashboard.svg?v=2" width="100%" alt="Souvik Dey builder ID and public dashboard: AI/ML builder pass, repositories, and current focus." />
 
-<img src="./assets/connect.svg?v=1" width="100%" alt="Let's build something great. Connect on LinkedIn, explore portfolio, browse projects, or send an email." />
+<img src="./assets/connect.svg?v=2" width="100%" alt="Let's build something great. Connect on LinkedIn, explore portfolio, browse projects, or send an email." />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/souvik-dey-400497366">LinkedIn</a> &nbsp;·&nbsp;
