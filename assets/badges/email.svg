@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="36" viewBox="0 0 108 36" fill="none">
+  <defs>
+    <linearGradient id="bg_grad_email" x1="0" y1="0" x2="108" y2="36" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0e172a"/>
+      <stop offset="100%" stop-color="#080e1a"/>
+    </linearGradient>
+    <linearGradient id="border_grad_email" x1="0" y1="0" x2="108" y2="36" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#EA4335" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#1f3554" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#EA4335" stop-opacity="0.3"/>
+    </linearGradient>
+  </defs>
+  <!-- Card Background -->
+  <rect x="0.75" y="0.75" width="106.5" height="34.5" rx="8" fill="url(#bg_grad_email)" stroke="url(#border_grad_email)" stroke-width="1.5"/>
+  <!-- Subtle Icon Glow -->
+  <circle cx="21" cy="18" r="9" fill="#EA4335" fill-opacity="0.15"/>
+  <!-- Icon centered -->
+  <g transform="translate(13, 10) scale(0.666667)">
+    <path fill="#EA4335" d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/>
+  </g>
+  <!-- Text Label -->
+  <text x="36" y="22.5" fill="#F2F5FF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="0.3">Email</text>
+  <!-- Chevron Arrow -->
+  <path d="M94 15.5l2.5 2.5-2.5 2.5" stroke="#EA4335" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.8"/>
+</svg>

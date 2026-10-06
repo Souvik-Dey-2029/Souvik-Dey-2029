@@ -45,11 +45,25 @@
 <img src="./assets/connect.svg?v=3" width="100%" alt="Let's build something great. Connect on LinkedIn, explore portfolio, browse projects, or send an email." />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/souvik-dey-400497366">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://souvikdey.me">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://souvikdey.me/projects">Projects</a> &nbsp;·&nbsp;
-  <a href="mailto:souvik.business18@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://github.com/Souvik-Dey-2029">GitHub</a>
+  <a href="https://www.linkedin.com/in/souvik-dey-400497366" target="_blank">
+    <img src="./assets/badges/linkedin.svg" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://souvikdey.me" target="_blank">
+    <img src="./assets/badges/portfolio.svg" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://souvikdey.me/projects" target="_blank">
+    <img src="./assets/badges/projects.svg" alt="Projects" />
+  </a>
+  &nbsp;
+  <a href="mailto:souvik.business18@gmail.com" target="_blank">
+    <img src="./assets/badges/email.svg" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Souvik-Dey-2029" target="_blank">
+    <img src="./assets/badges/github.svg" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center"><sub>Curious by default. Building with intent.</sub></p>
