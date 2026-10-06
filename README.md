@@ -33,7 +33,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Souvik-Dey-2029&show_icons=true&bg_color=080e1a&title_color=00D9FF&text_color=adbed8&icon_color=247bff&border_color=1f3554" width="100%" alt="Souvik Dey GitHub Stats" />
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="https://streak-stats.demolab.com?user=Souvik-Dey-2029&background=080e1a&border=1f3554&stroke=1f3554&ring=00D9FF&fire=247bff&currStreakLabel=00D9FF&sideLabels=adbed8&dates=8e9db9" width="100%" alt="Souvik Dey GitHub Streak Stats" />
+      <img src="https://streak-stats.demolab.com?user=Souvik-Dey-2029&background=080e1a&border=1f3554&stroke=1f3554&ring=00D9FF&fire=247bff&currStreakLabel=00D9FF&currStreakNum=f2f5ff&sideNums=f2f5ff&sideLabels=adbed8&dates=8e9db9" width="100%" alt="Souvik Dey GitHub Streak Stats" />
     </td>
   </tr>
 </table>
