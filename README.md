@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/hero.svg?v=2" width="100%" alt="Hi, I'm Souvik Dey — CSE (AI & ML) at Haldia Institute of Technology. Building intelligent software and real-world systems." />
+  <img src="./assets/hero.svg?v=3" width="100%" alt="Hi, I'm Souvik Dey — CSE (AI & ML) at Haldia Institute of Technology. Building intelligent software and real-world systems." />
 </p>
 
-<img src="./assets/about-life.svg?v=4" width="100%" alt="Building things that matter — from idea to impact. Full-stack engineering, AI/ML engineering, open source & systems." />
+<img src="./assets/about-life.svg?v=5" width="100%" alt="Building things that matter — from idea to impact. Full-stack engineering, AI/ML engineering, open source & systems." />
 
-<img src="./assets/stack.svg?v=6" width="100%" alt="Technical Skills: Languages (C, C++, Java, Python, JavaScript), Web & Applications (HTML5, CSS3, JavaScript, React, Node.js, FastAPI), AI/ML & Data (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow / TensorFlow.js, Machine Learning), Databases & Tools (MongoDB, Git, GitHub, VS Code), Cloud & Deployment (Render, Vercel, Google Cloud, PWA)." />
+<img src="./assets/stack.svg?v=7" width="100%" alt="Technical Skills: Languages (C, C++, Java, Python, JavaScript), Web & Applications (HTML5, CSS3, JavaScript, React, Node.js, FastAPI), AI/ML & Data (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow / TensorFlow.js, Machine Learning), Databases & Tools (MongoDB, Git, GitHub, VS Code), Cloud & Deployment (Render, Vercel, Google Cloud, PWA)." />
 
 ### Things I've built
 
@@ -17,9 +17,9 @@
 | [**Medicine Reminder Pro**](https://souvikdey.me/projects) | Intelligent medication management & adherence tracking with smart alerts | HealthTech + PWA |
 | [**MediGuard AI**](https://souvikdey.me/projects) | Automated prescription validation & clinical interaction safety checker | Healthcare + ML |
 
-<img src="./assets/awards.svg?v=2" width="100%" alt="Souvik Dey history awards & badges: 100 Days Badge, 50 Days Active Streak, Jun Badge." />
+<img src="./assets/awards.svg?v=3" width="100%" alt="Souvik Dey history awards & badges: 100 Days Badge, 50 Days Active Streak, Jun Badge." />
 
-<img src="./assets/id-dashboard.svg?v=3" width="100%" alt="Souvik Dey builder ID and public dashboard: AI/ML builder pass, repositories, and current focus." />
+<img src="./assets/id-dashboard.svg?v=4" width="100%" alt="Souvik Dey builder ID and public dashboard: AI/ML builder pass, repositories, and current focus." />
 
 ### GitHub Activity & Contribution Stream
 
@@ -30,19 +30,19 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=Souvik-Dey-2029&show_icons=true&bg_color=080e1a&title_color=00D9FF&text_color=adbed8&icon_color=247bff&border_color=1f3554" width="100%" alt="Souvik Dey GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Souvik-Dey-2029&show_icons=true&bg_color=F3EBDD&title_color=171717&text_color=5E5548&icon_color=FFB000&border_color=171717" width="100%" alt="Souvik Dey GitHub Stats" />
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="https://streak-stats.demolab.com?user=Souvik-Dey-2029&background=080e1a&border=1f3554&stroke=1f3554&ring=00D9FF&fire=247bff&currStreakLabel=00D9FF&currStreakNum=f2f5ff&sideNums=f2f5ff&sideLabels=adbed8&dates=8e9db9" width="100%" alt="Souvik Dey GitHub Streak Stats" />
+      <img src="https://streak-stats.demolab.com?user=Souvik-Dey-2029&background=F3EBDD&border=171717&stroke=171717&ring=FFB000&fire=E85D3F&currStreakLabel=171717&currStreakNum=171717&sideNums=171717&sideLabels=5E5548&dates=5E5548" width="100%" alt="Souvik Dey GitHub Streak Stats" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik-Dey-2029&layout=compact&bg_color=080e1a&title_color=00D9FF&text_color=adbed8&border_color=1f3554" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik-Dey-2029&layout=compact&bg_color=F3EBDD&title_color=171717&text_color=5E5548&border_color=171717" width="60%" alt="Top Languages" />
 </p>
 
-<img src="./assets/connect.svg?v=5" width="100%" alt="Let's build something great. Connect on LinkedIn, explore portfolio, browse projects, or send an email." />
+<img src="./assets/connect.svg?v=6" width="100%" alt="Let's build something great. Connect on LinkedIn, explore portfolio, browse projects, or send an email." />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/souvik-dey-400497366" target="_blank">
