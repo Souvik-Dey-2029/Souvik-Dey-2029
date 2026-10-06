@@ -4,11 +4,11 @@
 
 <p align="center">
   <a href="https://github.com/Souvik-Dey-2029" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Souvik-Dey-2029&label=PROFILE+VIEWS&color=247bff&style=flat-square" alt="Live Profile Views for Souvik-Dey-2029" />
+    <img src="https://komarev.com/ghpvc/?username=Souvik-Dey-2029" alt="Live Profile Views" />
   </a>
 </p>
 
-<img src="./assets/about-life.svg?v=13" width="100%" alt="What I Build &amp; How I Build — Souvik Dey. AI/ML, Full-Stack Software, Experiments and Real-world Problem Solving." />
+<img src="./assets/about-life.svg?v=14" width="100%" alt="What I Build &amp; How I Build — Souvik Dey. AI/ML, Full-Stack Software, Experiments and Real-world Problem Solving." />
 
 <img src="./assets/stack.svg?v=10" width="100%" alt="Technical Skills: Languages (C, C++, Java, Python, JavaScript), Web &amp; Applications (HTML5, CSS3, JavaScript, React, Node.js, FastAPI), AI/ML &amp; Data (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow / TensorFlow.js, Machine Learning), Databases &amp; Tools (MongoDB, Git, GitHub, VS Code), Cloud &amp; Deployment (Render, Vercel, Google Cloud, PWA)." />
 
