@@ -12,16 +12,52 @@
 
 <img src="./assets/stack.svg?v=10" width="100%" alt="Technical Skills: Languages (C, C++, Java, Python, JavaScript), Web &amp; Applications (HTML5, CSS3, JavaScript, React, Node.js, FastAPI), AI/ML &amp; Data (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow / TensorFlow.js, Machine Learning), Databases &amp; Tools (MongoDB, Git, GitHub, VS Code), Cloud &amp; Deployment (Render, Vercel, Google Cloud, PWA)." />
 
-### Things I've built
+<a href="https://souvikdey.me/projects">
+  <img src="./assets/projects.svg?v=1" width="100%" alt="Souvik Dey — Selected Work: Things I've Built (BharatFarm, GrihaDarpan, ResQAI, Yojana.AI, Medicine Reminder Pro, MediGuard AI)" />
+</a>
 
-| Project | What it does | Focus | Live Stars |
-| :--- | :--- | :--- | :--- |
-| [**BharatFarm**](https://souvikdey.me/projects) | AI-assisted smart agriculture platform focused on market linkage, price discovery & farmer workflows | AI + AgriTech | <a href="https://github.com/Souvik-Dey-2029/BharatFarm"><img src="https://img.shields.io/github/stars/Souvik-Dey-2029/BharatFarm?style=flat-square&color=FFB000&labelColor=171717" alt="BharatFarm Stars" /></a> |
-| [**GrihaDarpan**](https://souvikdey.me/projects) | AI-assisted real-estate spatial intelligence platform with 3D visualization & Vastu analysis | Spatial AI + 3D | [Explore](https://souvikdey.me/projects) |
-| [**ResQAI**](https://souvikdey.me/projects) | AI-assisted emergency response infrastructure & architecture-based route mapping | AI + Emergency Systems | [Explore](https://souvikdey.me/projects) |
-| [**Yojana.AI**](https://souvikdey.me/projects) | Intelligent policy & scheme discovery platform driven by citizen context & NLP | GovTech + NLP | <a href="https://github.com/Souvik-Dey-2029/Yojana.AI"><img src="https://img.shields.io/github/stars/Souvik-Dey-2029/Yojana.AI?style=flat-square&color=FFB000&labelColor=171717" alt="Yojana.AI Stars" /></a> |
-| [**Medicine Reminder Pro**](https://souvikdey.me/projects) | Intelligent medication management & adherence tracking with smart alerts | HealthTech + PWA | <a href="https://github.com/Souvik-Dey-2029/Medicine-Reminder"><img src="https://img.shields.io/github/stars/Souvik-Dey-2029/Medicine-Reminder?style=flat-square&color=FFB000&labelColor=171717" alt="Medicine Reminder Stars" /></a> |
-| [**MediGuard AI**](https://souvikdey.me/projects) | Automated prescription validation & clinical interaction safety checker | Healthcare + ML | [Explore](https://souvikdey.me/projects) |
+<div align="center">
+  <table border="0" cellspacing="4" cellpadding="6">
+    <tr>
+      <td align="center">
+        <b>BharatFarm</b><br/>
+        <a href="https://github.com/Souvik-Dey-2029/BharatFarm">
+          <img src="https://img.shields.io/github/stars/Souvik-Dey-2029/BharatFarm?style=flat-square&label=%E2%98%85%20Stars&color=FFB000&labelColor=171717" alt="BharatFarm Live Stars" />
+        </a>
+      </td>
+      <td align="center">
+        <b>GrihaDarpan</b><br/>
+        <a href="https://souvikdey.me/projects">
+          <img src="https://img.shields.io/badge/Project-Explore%20%E2%86%92-E85D3F?style=flat-square&labelColor=171717" alt="GrihaDarpan Explore" />
+        </a>
+      </td>
+      <td align="center">
+        <b>ResQAI</b><br/>
+        <a href="https://github.com/Souvik-Dey-2029/Crisis-Intelligence-Response-System">
+          <img src="https://img.shields.io/github/stars/Souvik-Dey-2029/Crisis-Intelligence-Response-System?style=flat-square&label=%E2%98%85%20Stars&color=FFB000&labelColor=171717" alt="ResQAI Live Stars" />
+        </a>
+      </td>
+      <td align="center">
+        <b>Yojana.AI</b><br/>
+        <a href="https://github.com/Souvik-Dey-2029/Yojana.AI">
+          <img src="https://img.shields.io/github/stars/Souvik-Dey-2029/Yojana.AI?style=flat-square&label=%E2%98%85%20Stars&color=FFB000&labelColor=171717" alt="Yojana.AI Live Stars" />
+        </a>
+      </td>
+      <td align="center">
+        <b>Medicine Reminder</b><br/>
+        <a href="https://github.com/Souvik-Dey-2029/Medicine-Reminder">
+          <img src="https://img.shields.io/github/stars/Souvik-Dey-2029/Medicine-Reminder?style=flat-square&label=%E2%98%85%20Stars&color=FFB000&labelColor=171717" alt="Medicine Reminder Live Stars" />
+        </a>
+      </td>
+      <td align="center">
+        <b>MediGuard AI</b><br/>
+        <a href="https://souvikdey.me/projects">
+          <img src="https://img.shields.io/badge/Project-Explore%20%E2%86%92-171717?style=flat-square&labelColor=6B6255" alt="MediGuard AI Explore" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <img src="./assets/awards.svg?v=10" width="100%" alt="Souvik Dey history awards &amp; badges: 100 Days Badge, 50 Days Active Streak, Jun Badge." />
 
