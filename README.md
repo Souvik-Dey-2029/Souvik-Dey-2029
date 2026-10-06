@@ -27,20 +27,7 @@
   <img src="https://raw.githubusercontent.com/Souvik-Dey-2029/Souvik-Dey-2029/output/github-snake-dark.svg" width="100%" alt="Souvik Dey's Contribution Snake Animation" />
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=Souvik-Dey-2029&show_icons=true&bg_color=F3EBDD&title_color=171717&text_color=6B6255&icon_color=FFB000&border_color=171717" width="100%" alt="Souvik Dey GitHub Stats" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://streak-stats.demolab.com?user=Souvik-Dey-2029&background=F3EBDD&border=171717&stroke=171717&ring=FFB000&fire=E85D3F&currStreakLabel=171717&currStreakNum=171717&sideNums=171717&sideLabels=6B6255&dates=6B6255" width="100%" alt="Souvik Dey GitHub Streak Stats" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik-Dey-2029&layout=compact&bg_color=F3EBDD&title_color=171717&text_color=6B6255&border_color=171717" width="60%" alt="Top Languages" />
-</p>
+<img src="./assets/github-stats.svg?v=1" width="100%" alt="Souvik Dey GitHub Activity, Contribution Streak &amp; Language Breakdown" />
 
 <img src="./assets/connect.svg?v=11" width="100%" alt="Let's build something great. Connect on LinkedIn, explore portfolio, browse projects, or send an email." />
 
