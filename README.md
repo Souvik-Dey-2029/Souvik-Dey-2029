@@ -19,6 +19,23 @@
 
 <img src="./assets/id-dashboard.svg?v=2" width="100%" alt="Souvik Dey builder ID and public dashboard: AI/ML builder pass, repositories, and current focus." />
 
+### GitHub Activity & Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Souvik-Dey-2029&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070b16&title_color=247bff&icon_color=247bff&text_color=9db2d1" width="49%" alt="Souvik's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Souvik-Dey-2029&theme=tokyonight&hide_border=true&background=070b16&stroke=247bff&ring=247bff&fire=ff354f&currStreakNum=f2f5ff&sideNums=9db2d1&currStreakLabel=247bff&sideLabels=8e9db9" width="49%" alt="Souvik's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Souvik-Dey-2029/Souvik-Dey-2029/output/github-snake-dark.svg" width="100%" alt="Souvik's Contribution Activity Snake" />
+</p>
+
+### Awards & Verified Credentials
+
+<p align="center">
+  <img src="./assets/badges_banner.png" width="100%" alt="LeetCode & GitHub Achievements and Badges" />
+</p>
+
 <img src="./assets/connect.svg?v=2" width="100%" alt="Let's build something great. Connect on LinkedIn, explore portfolio, browse projects, or send an email." />
 
 <p align="center">
