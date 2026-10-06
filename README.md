@@ -42,7 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik-Dey-2029&layout=compact&bg_color=080e1a&title_color=00D9FF&text_color=adbed8&border_color=1f3554" width="60%" alt="Top Languages" />
 </p>
 
-<img src="./assets/connect.svg?v=2" width="100%" alt="Let's build something great. Connect on LinkedIn, explore portfolio, browse projects, or send an email." />
+<img src="./assets/connect.svg?v=3" width="100%" alt="Let's build something great. Connect on LinkedIn, explore portfolio, browse projects, or send an email." />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/souvik-dey-400497366">LinkedIn</a> &nbsp;·&nbsp;
