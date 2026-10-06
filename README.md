@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/hero.svg?v=9" width="100%" alt="Hi, I'm Souvik Dey — CSE (AI & ML) at Haldia Institute of Technology. Building intelligent software and real-world systems." />
+  <img src="./assets/hero.svg?v=10" width="100%" alt="Hi, I'm Souvik Dey — CSE (AI & ML) at Haldia Institute of Technology. Building intelligent software and real-world systems." />
 </p>
 
-<img src="./assets/about-life.svg?v=9" width="100%" alt="Building things that matter — from idea to impact. Full-stack engineering, AI/ML engineering, open source & systems." />
+<img src="./assets/about-life.svg?v=10" width="100%" alt="Building things that matter — from idea to impact. Full-stack engineering, AI/ML engineering, open source & systems." />
 
-<img src="./assets/stack.svg?v=9" width="100%" alt="Technical Skills: Languages (C, C++, Java, Python, JavaScript), Web & Applications (HTML5, CSS3, JavaScript, React, Node.js, FastAPI), AI/ML & Data (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow / TensorFlow.js, Machine Learning), Databases & Tools (MongoDB, Git, GitHub, VS Code), Cloud & Deployment (Render, Vercel, Google Cloud, PWA)." />
+<img src="./assets/stack.svg?v=10" width="100%" alt="Technical Skills: Languages (C, C++, Java, Python, JavaScript), Web & Applications (HTML5, CSS3, JavaScript, React, Node.js, FastAPI), AI/ML & Data (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow / TensorFlow.js, Machine Learning), Databases & Tools (MongoDB, Git, GitHub, VS Code), Cloud & Deployment (Render, Vercel, Google Cloud, PWA)." />
 
 ### Things I've built
 
@@ -17,9 +17,9 @@
 | [**Medicine Reminder Pro**](https://souvikdey.me/projects) | Intelligent medication management & adherence tracking with smart alerts | HealthTech + PWA |
 | [**MediGuard AI**](https://souvikdey.me/projects) | Automated prescription validation & clinical interaction safety checker | Healthcare + ML |
 
-<img src="./assets/awards.svg?v=9" width="100%" alt="Souvik Dey history awards & badges: 100 Days Badge, 50 Days Active Streak, Jun Badge." />
+<img src="./assets/awards.svg?v=10" width="100%" alt="Souvik Dey history awards & badges: 100 Days Badge, 50 Days Active Streak, Jun Badge." />
 
-<img src="./assets/id-dashboard.svg?v=9" width="100%" alt="Souvik Dey builder ID and public dashboard: AI/ML builder pass, repositories, and current focus." />
+<img src="./assets/id-dashboard.svg?v=10" width="100%" alt="Souvik Dey builder ID and public dashboard: AI/ML builder pass, repositories, and current focus." />
 
 ### GitHub Activity & Contribution Stream
 
@@ -42,7 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik-Dey-2029&layout=compact&bg_color=F3EBDD&title_color=171717&text_color=6B6255&border_color=171717" width="60%" alt="Top Languages" />
 </p>
 
-<img src="./assets/connect.svg?v=9" width="100%" alt="Let's build something great. Connect on LinkedIn, explore portfolio, browse projects, or send an email." />
+<img src="./assets/connect.svg?v=10" width="100%" alt="Let's build something great. Connect on LinkedIn, explore portfolio, browse projects, or send an email." />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/souvik-dey-400497366" target="_blank">
