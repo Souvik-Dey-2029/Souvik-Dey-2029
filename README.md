@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<img src="./assets/about-life.svg?v=12" width="100%" alt="What I Build &amp; How I Build — Souvik Dey. AI/ML, Full-Stack Software, Experiments and Real-world Problem Solving." />
+<img src="./assets/about-life.svg?v=13" width="100%" alt="What I Build &amp; How I Build — Souvik Dey. AI/ML, Full-Stack Software, Experiments and Real-world Problem Solving." />
 
 <img src="./assets/stack.svg?v=10" width="100%" alt="Technical Skills: Languages (C, C++, Java, Python, JavaScript), Web &amp; Applications (HTML5, CSS3, JavaScript, React, Node.js, FastAPI), AI/ML &amp; Data (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow / TensorFlow.js, Machine Learning), Databases &amp; Tools (MongoDB, Git, GitHub, VS Code), Cloud &amp; Deployment (Render, Vercel, Google Cloud, PWA)." />
 
