@@ -2,7 +2,7 @@
   <img src="./assets/hero.svg?v=11" width="100%" alt="Hi, I'm Souvik Dey — CSE (AI & ML) at Haldia Institute of Technology. Building intelligent software and real-world systems." />
 </p>
 
-<img src="./assets/about-life.svg?v=10" width="100%" alt="Building things that matter — from idea to impact. Full-stack engineering, AI/ML engineering, open source & systems." />
+<img src="./assets/about-life.svg?v=11" width="100%" alt="Building things that matter — from idea to impact. Full-stack engineering, AI/ML engineering, open source & systems." />
 
 <img src="./assets/stack.svg?v=10" width="100%" alt="Technical Skills: Languages (C, C++, Java, Python, JavaScript), Web & Applications (HTML5, CSS3, JavaScript, React, Node.js, FastAPI), AI/ML & Data (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow / TensorFlow.js, Machine Learning), Databases & Tools (MongoDB, Git, GitHub, VS Code), Cloud & Deployment (Render, Vercel, Google Cloud, PWA)." />
 
