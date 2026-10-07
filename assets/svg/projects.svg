@@ -3,27 +3,27 @@
   <desc id="proj-desc">Editorial showcase of real systems and AI applications built by Souvik Dey.</desc>
   <defs>
     <pattern id="proj-dots" width="20" height="20" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="1" r=".7" fill="#6B6255" opacity=".05" />
+      <circle cx="1" cy="1" r=".7" fill="#665D52" opacity=".06" />
     </pattern>
     <filter id="hard-shadow" x="0" y="0" width="120%" height="120%">
-      <feDropShadow dx="5" dy="5" stdDeviation="0" flood-color="#171717" flood-opacity="1" />
+      <feDropShadow dx="4" dy="4" stdDeviation="0" flood-color="#171717" flood-opacity="1" />
     </filter>
   </defs>
 
   <style>
     text { font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 500; fill: #171717; }
     .heading, .title { font-family: 'Barlow Condensed', 'Roboto Condensed', 'Archivo Narrow', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; letter-spacing: 0.5px; fill: #171717; }
-    .mono { font-family: 'IBM Plex Mono', 'JetBrains Mono', ui-monospace, Menlo, Monaco, Consolas, monospace; font-weight: 500; fill: #6B6255; }
+    .mono { font-family: 'IBM Plex Mono', 'JetBrains Mono', ui-monospace, Menlo, Monaco, Consolas, monospace; font-weight: 500; fill: #665D52; }
     .tag-text { font-family: 'IBM Plex Mono', 'JetBrains Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 1.2px; }
     .card-title { font-family: 'Barlow Condensed', 'Roboto Condensed', sans-serif; font-weight: 800; font-size: 28px; letter-spacing: 0.8px; fill: #171717; }
-    .card-desc { font-size: 13.5px; fill: #536273; font-weight: 450; }
-    .card-focus-lbl { font-family: 'IBM Plex Mono', monospace; font-size: 10px; fill: #6B6255; letter-spacing: 1.2px; font-weight: 600; }
+    .card-desc { font-size: 13.5px; fill: #665D52; font-weight: 450; }
+    .card-focus-lbl { font-family: 'IBM Plex Mono', monospace; font-size: 10px; fill: #665D52; letter-spacing: 1.2px; font-weight: 600; }
     .card-focus-val { font-family: 'IBM Plex Mono', monospace; font-size: 11.5px; font-weight: 700; letter-spacing: 0.8px; }
     .btn-lbl { font-family: 'IBM Plex Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 0.8px; }
   </style>
 
   <!-- Container -->
-  <rect x="1" y="1" width="1198" height="848" rx="22" fill="#F3EBDD" stroke="#171717" stroke-width="2" />
+  <rect x="1" y="1" width="1198" height="848" rx="22" fill="#FFF3DF" stroke="#171717" stroke-width="2" />
   <rect x="2" y="2" width="1196" height="846" rx="21" fill="url(#proj-dots)" stroke="none" />
 
   <!-- Header -->
@@ -37,7 +37,7 @@
   <!-- ROW 1: BHARATFARM (Hero Left) & GRIHADARPAN (Right) -->
   <!-- CARD 01: BHARATFARM (x=42, y=145, width=570, height=215) -->
   <g transform="translate(42, 145)">
-    <rect x="5" y="5" width="570" height="215" rx="14" fill="#171717" />
+    <rect x="4" y="4" width="570" height="215" rx="14" fill="#171717" />
     <rect x="0" y="0" width="570" height="215" rx="14" fill="#FFF9EE" stroke="#171717" stroke-width="2" />
     <rect x="0" y="0" width="570" height="6" rx="3" fill="#FFB000" />
     
@@ -57,7 +57,7 @@
 
       <g transform="translate(0, 130)">
         <text x="0" y="12" class="card-focus-lbl">FOCUS</text>
-        <text x="0" y="30" class="card-focus-val" fill="#E85D3F">AI + AGRITECH</text>
+        <text x="0" y="30" class="card-focus-val" fill="#FFB000">AI + AGRITECH</text>
 
         <text x="210" y="12" class="card-focus-lbl">TECH ARCHITECTURE</text>
         <text x="210" y="30" class="card-focus-val" fill="#171717">PWA + FASTAPI + ML</text>
@@ -67,12 +67,12 @@
 
   <!-- CARD 02: GRIHADARPAN (x=632, y=145, width=526, height=215) -->
   <g transform="translate(632, 145)">
-    <rect x="5" y="5" width="526" height="215" rx="14" fill="#171717" />
+    <rect x="4" y="4" width="526" height="215" rx="14" fill="#171717" />
     <rect x="0" y="0" width="526" height="215" rx="14" fill="#FFF9EE" stroke="#171717" stroke-width="2" />
-    <rect x="0" y="0" width="526" height="6" rx="3" fill="#E85D3F" />
+    <rect x="0" y="0" width="526" height="6" rx="3" fill="#C95F45" />
 
     <g transform="translate(24, 24)">
-      <rect x="0" y="0" width="102" height="22" rx="4" fill="#F3EBDD" stroke="#171717" stroke-width="1.5" />
+      <rect x="0" y="0" width="102" height="22" rx="4" fill="#FFF3DF" stroke="#171717" stroke-width="1.5" />
       <text x="10" y="15" class="tag-text" fill="#171717">02 / PROJECT</text>
 
       <g transform="translate(346, 0)">
@@ -87,7 +87,7 @@
 
       <g transform="translate(0, 130)">
         <text x="0" y="12" class="card-focus-lbl">FOCUS</text>
-        <text x="0" y="30" class="card-focus-val" fill="#E85D3F">SPATIAL AI + 3D</text>
+        <text x="0" y="30" class="card-focus-val" fill="#C95F45">SPATIAL AI + 3D</text>
 
         <text x="210" y="12" class="card-focus-lbl">TECH ARCHITECTURE</text>
         <text x="210" y="30" class="card-focus-val" fill="#171717">THREE.JS + SPATIAL AI</text>
@@ -98,12 +98,12 @@
   <!-- ROW 2: RESQAI (x=42, y=375, w=570, h=215) & YOJANA.AI (x=632, y=375, w=526, h=215) -->
   <!-- CARD 03: RESQAI -->
   <g transform="translate(42, 375)">
-    <rect x="5" y="5" width="570" height="215" rx="14" fill="#171717" />
+    <rect x="4" y="4" width="570" height="215" rx="14" fill="#171717" />
     <rect x="0" y="0" width="570" height="215" rx="14" fill="#FFF9EE" stroke="#171717" stroke-width="2" />
-    <rect x="0" y="0" width="570" height="6" rx="3" fill="#171717" />
+    <rect x="0" y="0" width="570" height="6" rx="3" fill="#B87932" />
 
     <g transform="translate(24, 24)">
-      <rect x="0" y="0" width="102" height="22" rx="4" fill="#F3EBDD" stroke="#171717" stroke-width="1.5" />
+      <rect x="0" y="0" width="102" height="22" rx="4" fill="#FFF3DF" stroke="#171717" stroke-width="1.5" />
       <text x="10" y="15" class="tag-text" fill="#171717">03 / PROJECT</text>
 
       <g transform="translate(390, 0)">
@@ -121,19 +121,19 @@
         <text x="0" y="30" class="card-focus-val" fill="#171717">AI + EMERGENCY SYSTEMS</text>
 
         <text x="250" y="12" class="card-focus-lbl">KEY CAPABILITY</text>
-        <text x="250" y="30" class="card-focus-val" fill="#FFB000">ROUTING &amp; DISPATCH</text>
+        <text x="250" y="30" class="card-focus-val" fill="#B87932">ROUTING &amp; DISPATCH</text>
       </g>
     </g>
   </g>
 
   <!-- CARD 04: YOJANA.AI -->
   <g transform="translate(632, 375)">
-    <rect x="5" y="5" width="526" height="215" rx="14" fill="#171717" />
+    <rect x="4" y="4" width="526" height="215" rx="14" fill="#171717" />
     <rect x="0" y="0" width="526" height="215" rx="14" fill="#FFF9EE" stroke="#171717" stroke-width="2" />
-    <rect x="0" y="0" width="526" height="6" rx="3" fill="#E85D3F" />
+    <rect x="0" y="0" width="526" height="6" rx="3" fill="#B87932" />
 
     <g transform="translate(24, 24)">
-      <rect x="0" y="0" width="102" height="22" rx="4" fill="#F3EBDD" stroke="#171717" stroke-width="1.5" />
+      <rect x="0" y="0" width="102" height="22" rx="4" fill="#FFF3DF" stroke="#171717" stroke-width="1.5" />
       <text x="10" y="15" class="tag-text" fill="#171717">04 / PROJECT</text>
 
       <g transform="translate(346, 0)">
@@ -148,7 +148,7 @@
 
       <g transform="translate(0, 130)">
         <text x="0" y="12" class="card-focus-lbl">FOCUS</text>
-        <text x="0" y="30" class="card-focus-val" fill="#E85D3F">GOVTECH + NLP</text>
+        <text x="0" y="30" class="card-focus-val" fill="#B87932">GOVTECH + NLP</text>
 
         <text x="210" y="12" class="card-focus-lbl">KEY CAPABILITY</text>
         <text x="210" y="30" class="card-focus-val" fill="#171717">SEMANTIC CITIZEN DISCOVERY</text>
@@ -159,12 +159,12 @@
   <!-- ROW 3: MEDICINE REMINDER PRO (x=42, y=605, w=570, h=215) & MEDIGUARD AI (x=632, y=605, w=526, h=215) -->
   <!-- CARD 05: MEDICINE REMINDER PRO -->
   <g transform="translate(42, 605)">
-    <rect x="5" y="5" width="570" height="215" rx="14" fill="#171717" />
+    <rect x="4" y="4" width="570" height="215" rx="14" fill="#171717" />
     <rect x="0" y="0" width="570" height="215" rx="14" fill="#FFF9EE" stroke="#171717" stroke-width="2" />
-    <rect x="0" y="0" width="570" height="6" rx="3" fill="#FFB000" />
+    <rect x="0" y="0" width="570" height="6" rx="3" fill="#C95F45" />
 
     <g transform="translate(24, 24)">
-      <rect x="0" y="0" width="102" height="22" rx="4" fill="#F3EBDD" stroke="#171717" stroke-width="1.5" />
+      <rect x="0" y="0" width="102" height="22" rx="4" fill="#FFF3DF" stroke="#171717" stroke-width="1.5" />
       <text x="10" y="15" class="tag-text" fill="#171717">05 / PROJECT</text>
 
       <g transform="translate(390, 0)">
@@ -179,7 +179,7 @@
 
       <g transform="translate(0, 130)">
         <text x="0" y="12" class="card-focus-lbl">FOCUS</text>
-        <text x="0" y="30" class="card-focus-val" fill="#FFB000">HEALTHTECH + PWA</text>
+        <text x="0" y="30" class="card-focus-val" fill="#C95F45">HEALTHTECH + PWA</text>
 
         <text x="250" y="12" class="card-focus-lbl">KEY CAPABILITY</text>
         <text x="250" y="30" class="card-focus-val" fill="#171717">PWA ALERTS &amp; LOGGING</text>
@@ -189,12 +189,12 @@
 
   <!-- CARD 06: MEDIGUARD AI -->
   <g transform="translate(632, 605)">
-    <rect x="5" y="5" width="526" height="215" rx="14" fill="#171717" />
+    <rect x="4" y="4" width="526" height="215" rx="14" fill="#171717" />
     <rect x="0" y="0" width="526" height="215" rx="14" fill="#FFF9EE" stroke="#171717" stroke-width="2" />
     <rect x="0" y="0" width="526" height="6" rx="3" fill="#171717" />
 
     <g transform="translate(24, 24)">
-      <rect x="0" y="0" width="102" height="22" rx="4" fill="#F3EBDD" stroke="#171717" stroke-width="1.5" />
+      <rect x="0" y="0" width="102" height="22" rx="4" fill="#FFF3DF" stroke="#171717" stroke-width="1.5" />
       <text x="10" y="15" class="tag-text" fill="#171717">06 / PROJECT</text>
 
       <g transform="translate(346, 0)">
@@ -212,7 +212,7 @@
         <text x="0" y="30" class="card-focus-val" fill="#171717">HEALTHCARE + ML</text>
 
         <text x="210" y="12" class="card-focus-lbl">KEY CAPABILITY</text>
-        <text x="210" y="30" class="card-focus-val" fill="#E85D3F">DRUG INTERACTION CHECK</text>
+        <text x="210" y="30" class="card-focus-val" fill="#FFB000">DRUG INTERACTION CHECK</text>
       </g>
     </g>
   </g>

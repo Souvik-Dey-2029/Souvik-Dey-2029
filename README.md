@@ -13,7 +13,7 @@
 <img src="./assets/stack.svg?v=10" width="100%" alt="Technical Skills: Languages (C, C++, Java, Python, JavaScript), Web &amp; Applications (HTML5, CSS3, JavaScript, React, Node.js, FastAPI), AI/ML &amp; Data (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow / TensorFlow.js, Machine Learning), Databases &amp; Tools (MongoDB, Git, GitHub, VS Code), Cloud &amp; Deployment (Render, Vercel, Google Cloud, PWA)." />
 
 <a href="https://souvikdey.me/projects">
-  <img src="./assets/projects.svg?v=2" width="100%" alt="Souvik Dey — Selected Work: Things I've Built (BharatFarm, GrihaDarpan, ResQAI, Yojana.AI, Medicine Reminder Pro, MediGuard AI)" />
+  <img src="./assets/projects.svg?v=3" width="100%" alt="Souvik Dey — Selected Work: Things I've Built (BharatFarm, GrihaDarpan, ResQAI, Yojana.AI, Medicine Reminder Pro, MediGuard AI)" />
 </a>
 
 <div align="center">
