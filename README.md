@@ -65,6 +65,7 @@
 
 ### GitHub Activity &amp; Contribution Stream
 
+
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" align="center" valign="middle">
