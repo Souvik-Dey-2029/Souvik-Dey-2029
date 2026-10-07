@@ -59,9 +59,9 @@
   </table>
 </div>
 
-<img src="./assets/awards.svg?v=10" width="100%" alt="Souvik Dey history awards &amp; badges: 100 Days Badge, 50 Days Active Streak, Jun Badge." />
+<img src="./assets/awards.svg?v=11" width="100%" alt="Souvik Dey history awards &amp; badges: 100 Days Badge, 50 Days Active Streak, Jun Badge." />
 
-<img src="./assets/id-dashboard.svg?v=13" width="100%" alt="Souvik Dey builder ID and public dashboard: AI/ML builder pass, repositories, and current focus." />
+<img src="./assets/id-dashboard.svg?v=14" width="100%" alt="Souvik Dey builder ID and public dashboard: AI/ML builder pass, repositories, and current focus." />
 
 ### GitHub Activity &amp; Contribution Stream
 
