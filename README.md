@@ -81,27 +81,27 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik-Dey-2029&layout=compact&card_width=480&custom_title=LANGUAGE+BREAKDOWN&langs_count=6&bg_color=FFF9EE&title_color=171717&text_color=536273&border_color=171717" width="60%" alt="Souvik Dey Live Top Languages Breakdown" />
 </p>
 
-<img src="./assets/connect.svg?v=11" width="100%" alt="Let's build something great. Connect on LinkedIn, explore portfolio, browse projects, or send an email." />
+<img src="./assets/connect.svg?v=12" width="100%" alt="Let's build something great. Connect on LinkedIn, explore portfolio, browse projects, or send an email." />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/souvik-dey-400497366" target="_blank">
-    <img src="./assets/badges/linkedin.svg" alt="LinkedIn" />
+    <img src="./assets/badges/linkedin.svg?v=2" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://souvikdey.me" target="_blank">
-    <img src="./assets/badges/portfolio.svg" alt="Portfolio" />
+    <img src="./assets/badges/portfolio.svg?v=2" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://souvikdey.me/projects" target="_blank">
-    <img src="./assets/badges/projects.svg" alt="Projects" />
+    <img src="./assets/badges/projects.svg?v=2" alt="Projects" />
   </a>
   &nbsp;
   <a href="mailto:souvik.business18@gmail.com" target="_blank">
-    <img src="./assets/badges/email.svg" alt="Email" />
+    <img src="./assets/badges/email.svg?v=2" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/Souvik-Dey-2029" target="_blank">
-    <img src="./assets/badges/github.svg" alt="GitHub" />
+    <img src="./assets/badges/github.svg?v=2" alt="GitHub" />
   </a>
 </p>
 
