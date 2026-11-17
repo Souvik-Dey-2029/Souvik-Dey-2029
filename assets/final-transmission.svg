@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="580" viewBox="0 0 1200 580" role="img" aria-labelledby="final-title final-desc">
+  <title id="final-title">The Final Transmission — The Architect Never Stops Building</title>
+  <desc id="final-desc">System status, build metrics, and closing developer manifesto for Souvik Dey.</desc>
+  <defs>
+    <linearGradient id="bg-grad" x1="0" y1="0" x2="0" y2="580" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#100E0C" />
+      <stop offset="50%" stop-color="#14120F" />
+      <stop offset="100%" stop-color="#1A1713" />
+    </linearGradient>
+    <pattern id="grid-dots" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#FFB000" opacity="0.08" />
+    </pattern>
+  </defs>
+  <!-- Background -->
+  <rect x="0" y="0" width="1200" height="580" fill="url(#bg-grad)" />
+  <rect x="0" y="0" width="1200" height="580" fill="url(#grid-dots)" />
+  
+  <!-- Perspective Wireframe Lines -->
+  <g stroke="#3D352E" stroke-width="1" opacity="0.4">
+    <line x1="600" y1="310" x2="0" y2="560" />
+    <line x1="600" y1="310" x2="150" y2="560" />
+    <line x1="600" y1="310" x2="300" y2="560" />
+    <line x1="600" y1="310" x2="450" y2="560" />
+    <line x1="600" y1="310" x2="600" y2="560" />
+    <line x1="600" y1="310" x2="750" y2="560" />
+    <line x1="600" y1="310" x2="900" y2="560" />
+    <line x1="600" y1="310" x2="1050" y2="560" />
+    <line x1="600" y1="310" x2="1200" y2="560" />
+    
+    <line x1="50" y1="360" x2="1150" y2="360" />
+    <line x1="50" y1="410" x2="1150" y2="410" />
+    <line x1="50" y1="470" x2="1150" y2="470" />
+    <line x1="50" y1="540" x2="1150" y2="540" />
+  </g>
+<defs>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Consolas', 'Courier New', monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; }
+      .heading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Arial Black', sans-serif; font-weight: 900; text-transform: uppercase; }
+    </style>
+  </defs>
+
+  <!-- Neo-brutalist Main Frame: 6px offset shadow + 2px solid border -->
+  <rect x="25" y="25" width="1150" height="530" rx="16" fill="none" stroke="#000000" stroke-width="6" opacity="0.5" />
+  <rect x="20" y="20" width="1150" height="530" rx="16" fill="none" stroke="#3D352E" stroke-width="2" />
+  
+  <!-- Corner Tech Brackets (Amber Gold #FFB000) -->
+  <path d="M 20 48 L 20 20 L 48 20" fill="none" stroke="#FFB000" stroke-width="3.5" />
+  <path d="M 1170 48 L 1170 20 L 1142 20" fill="none" stroke="#FFB000" stroke-width="3.5" />
+  <path d="M 20 522 L 20 550 L 48 550" fill="none" stroke="#FFB000" stroke-width="3.5" />
+  <path d="M 1170 522 L 1170 550 L 1142 550" fill="none" stroke="#FFB000" stroke-width="3.5" />
+
+  <!-- Top Metadata Bar -->
+  <g class="mono" font-size="11" letter-spacing="1.5">
+    <text x="50" y="52" fill="#B87932">SYS_ID // <tspan fill="#FFF9EE" font-weight="700">SD-2029</tspan></text>
+    <text x="210" y="52" fill="#554B41">|</text>
+    <text x="235" y="52" fill="#B87932">STATION // <tspan fill="#FFF9EE">AI-ML-CORE</tspan></text>
+    <text x="435" y="52" fill="#554B41">|</text>
+    <text x="460" y="52" fill="#B87932">PROTOCOL // <tspan fill="#FFB000">DEEP-STREAM-v4.2</tspan></text>
+    
+    <text x="870" y="52" fill="#B87932">BUFFER // <tspan fill="#FFF9EE">100% NOMINAL</tspan></text>
+    <text x="1035" y="52" fill="#554B41">|</text>
+    <text x="1055" y="52" fill="#FFB000" font-weight="700">LIVE FEED</text>
+  </g>
+  <line x1="50" y1="68" x2="1140" y2="68" stroke="#332B25" stroke-width="1" stroke-dasharray="4 4" />
+
+  <!-- 4 System Status Modules -->
+  <!-- Card 1: SYSTEM STATUS -->
+  <g transform="translate(50, 88)">
+    <rect x="3" y="3" width="250" height="74" rx="8" fill="#000000" opacity="0.6" />
+    <rect x="0" y="0" width="250" height="74" rx="8" fill="#1C1815" stroke="#3D352E" stroke-width="1.5" />
+    <path d="M 0 0 L 250 0" stroke="#FFB000" stroke-width="3" />
+    <text x="18" y="27" class="mono" font-size="10" fill="#B87932" letter-spacing="1.2">SYSTEM STATUS</text>
+    <text x="38" y="55" class="sans" font-size="18" font-weight="700" fill="#FFF9EE" letter-spacing="0.5">ONLINE</text>
+    <text x="175" y="55" class="mono" font-size="10" fill="#665D52">[01 / SYS]</text>
+  </g>
+
+  <!-- Card 2: BUILD STATUS -->
+  <g transform="translate(330, 88)">
+    <rect x="3" y="3" width="250" height="74" rx="8" fill="#000000" opacity="0.6" />
+    <rect x="0" y="0" width="250" height="74" rx="8" fill="#1C1815" stroke="#3D352E" stroke-width="1.5" />
+    <path d="M 0 0 L 250 0" stroke="#F59E0B" stroke-width="3" />
+    <text x="18" y="27" class="mono" font-size="10" fill="#B87932" letter-spacing="1.2">BUILD STATUS</text>
+    <text x="38" y="55" class="sans" font-size="18" font-weight="700" fill="#FFF9EE" letter-spacing="0.5">CONTINUOUS</text>
+    <text x="175" y="55" class="mono" font-size="10" fill="#665D52">[02 / BLD]</text>
+  </g>
+
+  <!-- Card 3: NEXT MISSION -->
+  <g transform="translate(610, 88)">
+    <rect x="3" y="3" width="250" height="74" rx="8" fill="#000000" opacity="0.6" />
+    <rect x="0" y="0" width="250" height="74" rx="8" fill="#1C1815" stroke="#3D352E" stroke-width="1.5" />
+    <path d="M 0 0 L 250 0" stroke="#E8DDC8" stroke-width="3" />
+    <text x="18" y="27" class="mono" font-size="10" fill="#B87932" letter-spacing="1.2">NEXT MISSION</text>
+    <text x="38" y="55" class="sans" font-size="18" font-weight="700" fill="#FFF9EE" letter-spacing="0.5">UNKNOWN</text>
+    <text x="175" y="55" class="mono" font-size="10" fill="#665D52">[03 / OBJ]</text>
+  </g>
+
+  <!-- Card 4: CORE ARCHITECT -->
+  <g transform="translate(890, 88)">
+    <rect x="3" y="3" width="250" height="74" rx="8" fill="#000000" opacity="0.6" />
+    <rect x="0" y="0" width="250" height="74" rx="8" fill="#1C1815" stroke="#3D352E" stroke-width="1.5" />
+    <path d="M 0 0 L 250 0" stroke="#E85D3F" stroke-width="3" />
+    <text x="18" y="27" class="mono" font-size="10" fill="#B87932" letter-spacing="1.2">CORE ARCHITECT</text>
+    <text x="38" y="55" class="sans" font-size="16" font-weight="700" fill="#FFF9EE">Souvik-Dey-2029</text>
+    <text x="175" y="55" class="mono" font-size="10" fill="#665D52">[04 / ID]</text>
+  </g>
+
+  <!-- Central Hero Section -->
+  <g transform="translate(600, 248)">
+    <!-- Neo-brutalist Technical Bracket Frame -->
+    <path d="M -410 -38 L -435 -38 L -435 38 L -410 38" fill="none" stroke="#FFB000" stroke-width="3" />
+    <path d="M 410 -38 L 435 -38 L 435 38 L 410 38" fill="none" stroke="#FFB000" stroke-width="3" />
+    
+    <!-- Central Category Badge -->
+    <rect x="-85" y="-58" width="170" height="22" rx="4" fill="#FFB000" />
+    <text x="0" y="-43" text-anchor="middle" class="mono" font-size="10.5" font-weight="700" fill="#171717" letter-spacing="1.5">TRANSMISSION // 08</text>
+
+    <!-- Main Hero Statement -->
+    <text x="0" y="5" text-anchor="middle" class="heading" font-size="33" fill="#FFF9EE" letter-spacing="2">
+      THE ARCHITECT NEVER STOPS BUILDING.
+    </text>
+
+    <!-- Supporting Line -->
+    <text x="0" y="40" text-anchor="middle" class="sans" font-size="15.5" font-weight="500" fill="#D4C7B5" letter-spacing="0.5">
+      Every system is a beginning. Every experiment leaves something behind.
+    </text>
+  </g>
+
+  <!-- Signature Card -->
+  <g transform="translate(600, 396)">
+    <rect x="-377" y="-22" width="754" height="54" rx="8" fill="#000000" opacity="0.6" />
+    <rect x="-380" y="-25" width="760" height="54" rx="8" fill="#1C1815" stroke="#3D352E" stroke-width="1.5" />
+    <path d="M -380 -5 L -380 15" stroke="#FFB000" stroke-width="3" />
+    <path d="M 380 -5 L 380 15" stroke="#FFB000" stroke-width="3" />
+
+    <text x="0" y="-1" text-anchor="middle" class="mono" font-size="13.5" font-weight="600" fill="#FFF9EE" letter-spacing="1.2">
+      &#8220;Designed through curiosity. Built through execution.&#8221;
+    </text>
+    <text x="0" y="18" text-anchor="middle" class="mono" font-size="10.5" fill="#B87932" letter-spacing="2">
+      &#8212; SOUVIK DEY // HIT CSE (AI &amp; ML) 2029 &#8212;
+    </text>
+  </g>
+
+  <!-- Bottom Terminal Bar -->
+  <line x1="50" y1="495" x2="1140" y2="495" stroke="#332B25" stroke-width="1" stroke-dasharray="3 3" />
+  <g class="mono" font-size="10" letter-spacing="1.5" fill="#665D52">
+    <text x="50" y="522">/// END OF TRANSMISSION</text>
+    <text x="450" y="522" fill="#B87932">[ ALL ACTIVE BUILDS PERSISTED TO MAIN ]</text>
+    <text x="965" y="522">LOC // 22.0645&#176; N, 88.0673&#176; E</text>
+  </g>
+</svg>

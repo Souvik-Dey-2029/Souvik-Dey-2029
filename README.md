@@ -63,10 +63,9 @@
 
 <img src="./assets/id-dashboard.svg?v=14" width="100%" alt="Souvik Dey builder ID and public dashboard: AI/ML builder pass, repositories, and current focus." />
 
-### GitHub Activity &amp; Contribution Stream
+<img src="./assets/activity-header.svg?v=1" width="100%" alt="Souvik Dey — GitHub Activity &amp; Contribution Stream" />
 
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" border="0" cellspacing="6" cellpadding="0">
   <tr>
     <td width="50%" align="center" valign="middle">
       <img src="https://github-readme-stats.vercel.app/api?username=Souvik-Dey-2029&show_icons=true&bg_color=FFF9EE&title_color=171717&text_color=536273&icon_color=FFB000&border_color=171717" width="100%" alt="Souvik Dey Live GitHub Stats" />
@@ -105,4 +104,8 @@
   </a>
 </p>
 
-<p align="center"><sub>Curious by default. Building with intent.</sub></p>
+<p align="center">
+  <img src="./assets/transmission-divider.svg?v=1" width="100%" alt="Terminal Transition Divider" />
+</p>
+
+<img src="./assets/final-transmission.svg?v=1" width="100%" alt="The Final Transmission — The Architect Never Stops Building." />

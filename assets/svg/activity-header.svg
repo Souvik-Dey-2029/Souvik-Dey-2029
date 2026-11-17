@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="116" viewBox="0 0 1200 116" role="img" aria-labelledby="activity-title activity-desc">
+  <title id="activity-title">Souvik Dey — GitHub Activity &amp; Contribution Stream</title>
+  <desc id="activity-desc">Live activity, commit telemetry, and codebase distribution.</desc>
+  <defs>
+    <pattern id="activity-dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r=".7" fill="#665D52" opacity=".06" />
+    </pattern>
+    <filter id="hard-shadow-act" x="0" y="0" width="120%" height="120%">
+      <feDropShadow dx="3" dy="3" stdDeviation="0" flood-color="#171717" flood-opacity="1" />
+    </filter>
+  </defs>
+
+  <style>
+    text { font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 500; fill: #171717; }
+    .heading { font-family: 'Barlow Condensed', 'Roboto Condensed', 'Archivo Narrow', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; letter-spacing: 0.5px; fill: #171717; }
+    .mono { font-family: 'IBM Plex Mono', 'JetBrains Mono', ui-monospace, Menlo, Monaco, Consolas, monospace; font-weight: 500; fill: #665D52; }
+    .tag-badge { font-family: 'IBM Plex Mono', 'JetBrains Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 1.4px; }
+  </style>
+
+  <!-- Container -->
+  <rect x="4" y="4" width="1192" height="108" rx="18" fill="#171717" />
+  <rect x="1" y="1" width="1192" height="108" rx="18" fill="#FFF3DF" stroke="#171717" stroke-width="2" />
+  <rect x="2" y="2" width="1190" height="106" rx="17" fill="url(#activity-dots)" stroke="none" />
+  <rect x="1" y="1" width="1192" height="5" rx="2.5" fill="#E85D3F" />
+
+  <!-- Content -->
+  <g transform="translate(36, 26)">
+    <rect x="0" y="0" width="230" height="20" rx="4" fill="#FFF9EE" stroke="#171717" stroke-width="1.2" />
+    <text x="10" y="14" class="tag-badge" fill="#E85D3F">07 / TELEMETRY &amp; METRICS</text>
+
+    <text x="1120" y="14" text-anchor="end" class="mono" font-size="11" letter-spacing="1.4">PUBLIC CONTRIBUTION CADENCE</text>
+
+    <text x="0" y="48" font-size="30" class="heading">GITHUB ACTIVITY &amp; CONTRIBUTION STREAM.</text>
+    <text x="0" y="70" font-size="13" class="mono">Continuous development cadence, verified streak analytics, and multi-language codebase distribution.</text>
+  </g>
+</svg>
