@@ -34,7 +34,7 @@
     <line x1="0" y1="82" x2="1116" y2="82" stroke="#171717" stroke-width="1.5" />
   </g>
 
-  <!-- ROW 1: BHARATFARM (Hero Left) & GRIHADARPAN (Right) -->
+  <!-- ROW 1: BHARATFARM (Hero Left) & THE TALE OF NASA'S FORGOTTEN LEGACY (Right) -->
   <!-- CARD 01: BHARATFARM (x=42, y=145, width=570, height=215) -->
   <g transform="translate(42, 145)">
     <rect x="4" y="4" width="570" height="215" rx="14" fill="#171717" />
@@ -65,7 +65,7 @@
     </g>
   </g>
 
-  <!-- CARD 02: GRIHADARPAN (x=632, y=145, width=526, height=215) -->
+  <!-- CARD 02: THE TALE OF NASA'S FORGOTTEN LEGACY (x=632, y=145, width=526, height=215) -->
   <g transform="translate(632, 145)">
     <rect x="4" y="4" width="526" height="215" rx="14" fill="#171717" />
     <rect x="0" y="0" width="526" height="215" rx="14" fill="#FFF9EE" stroke="#171717" stroke-width="2" />
@@ -80,31 +80,92 @@
         <text x="12" y="15" class="btn-lbl" fill="#FFF9EE">VIEW PROJECT →</text>
       </g>
 
-      <text x="0" y="54" class="card-title">GRIHADARPAN</text>
+      <text x="0" y="54" class="card-title" style="font-size: 18px; letter-spacing: 0.3px;">THE TALE OF NASA'S FORGOTTEN LEGACY</text>
 
-      <text x="0" y="80" class="card-desc">AI-assisted real-estate spatial intelligence platform with</text>
-      <text x="0" y="100" class="card-desc">3D visualization and Vastu analysis.</text>
+      <text x="0" y="80" class="card-desc">An immersive, interactive digital experience uncovering forgotten NASA</text>
+      <text x="0" y="100" class="card-desc">missions, untold stories and overlooked chapters of space exploration.</text>
 
       <g transform="translate(0, 130)">
         <text x="0" y="12" class="card-focus-lbl">FOCUS</text>
-        <text x="0" y="30" class="card-focus-val" fill="#C95F45">SPATIAL AI + 3D</text>
+        <text x="0" y="30" class="card-focus-val" fill="#C95F45">INTERACTIVE STORYTELLING</text>
 
-        <text x="210" y="12" class="card-focus-lbl">TECH ARCHITECTURE</text>
-        <text x="210" y="30" class="card-focus-val" fill="#171717">THREE.JS + SPATIAL AI</text>
+        <text x="210" y="12" class="card-focus-lbl">KEY CAPABILITY</text>
+        <text x="210" y="30" class="card-focus-val" fill="#171717">IMMERSIVE WEB EXPERIENCE</text>
       </g>
     </g>
   </g>
 
-  <!-- ROW 2: RESQAI (x=42, y=375, w=570, h=215) & YOJANA.AI (x=632, y=375, w=526, h=215) -->
-  <!-- CARD 03: RESQAI -->
+  <!-- ROW 2: EXPLOITREPLAY (x=42, y=375, w=570, h=215) & THE IPLMIND GAME (x=632, y=375, w=526, h=215) -->
+  <!-- CARD 03: EXPLOITREPLAY -->
   <g transform="translate(42, 375)">
+    <rect x="4" y="4" width="570" height="215" rx="14" fill="#171717" />
+    <rect x="0" y="0" width="570" height="215" rx="14" fill="#FFF9EE" stroke="#171717" stroke-width="2" />
+    <rect x="0" y="0" width="570" height="6" rx="3" fill="#171717" />
+
+    <g transform="translate(24, 24)">
+      <rect x="0" y="0" width="102" height="22" rx="4" fill="#FFF3DF" stroke="#171717" stroke-width="1.5" />
+      <text x="10" y="15" class="tag-text" fill="#171717">03 / PROJECT</text>
+
+      <g transform="translate(390, 0)">
+        <rect x="0" y="0" width="132" height="22" rx="4" fill="#171717" />
+        <text x="12" y="15" class="btn-lbl" fill="#FFF9EE">VIEW PROJECT →</text>
+      </g>
+
+      <text x="0" y="54" class="card-title">EXPLOITREPLAY</text>
+
+      <text x="0" y="80" class="card-desc">A cybersecurity-focused platform for understanding, analyzing and</text>
+      <text x="0" y="100" class="card-desc">replaying real-world exploit scenarios in a controlled environment.</text>
+
+      <g transform="translate(0, 130)">
+        <text x="0" y="12" class="card-focus-lbl">FOCUS</text>
+        <text x="0" y="30" class="card-focus-val" fill="#171717">CYBERSECURITY + WEB SECURITY</text>
+
+        <text x="250" y="12" class="card-focus-lbl">KEY CAPABILITY</text>
+        <text x="250" y="30" class="card-focus-val" fill="#B87932">EXPLOIT ANALYSIS &amp; REPLAY</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- CARD 04: THE IPLMIND GAME -->
+  <g transform="translate(632, 375)">
+    <rect x="4" y="4" width="526" height="215" rx="14" fill="#171717" />
+    <rect x="0" y="0" width="526" height="215" rx="14" fill="#FFF9EE" stroke="#171717" stroke-width="2" />
+    <rect x="0" y="0" width="526" height="6" rx="3" fill="#FFB000" />
+
+    <g transform="translate(24, 24)">
+      <rect x="0" y="0" width="102" height="22" rx="4" fill="#FFF3DF" stroke="#171717" stroke-width="1.5" />
+      <text x="10" y="15" class="tag-text" fill="#171717">04 / PROJECT</text>
+
+      <g transform="translate(346, 0)">
+        <rect x="0" y="0" width="132" height="22" rx="4" fill="#171717" />
+        <text x="12" y="15" class="btn-lbl" fill="#FFF9EE">VIEW PROJECT →</text>
+      </g>
+
+      <text x="0" y="54" class="card-title">THE IPLMIND GAME</text>
+
+      <text x="0" y="80" class="card-desc">An intelligent IPL prediction and strategy experience combining</text>
+      <text x="0" y="100" class="card-desc">cricket insights, data-driven analysis and interactive gameplay.</text>
+
+      <g transform="translate(0, 130)">
+        <text x="0" y="12" class="card-focus-lbl">FOCUS</text>
+        <text x="0" y="30" class="card-focus-val" fill="#FFB000">CRICKET + AI</text>
+
+        <text x="210" y="12" class="card-focus-lbl">KEY CAPABILITY</text>
+        <text x="210" y="30" class="card-focus-val" fill="#171717">DATA-DRIVEN GAMEPLAY</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- ROW 3: RESQAI (x=42, y=605, w=570, h=215) & LEETSYNC (x=632, y=605, w=526, h=215) -->
+  <!-- CARD 05: RESQAI -->
+  <g transform="translate(42, 605)">
     <rect x="4" y="4" width="570" height="215" rx="14" fill="#171717" />
     <rect x="0" y="0" width="570" height="215" rx="14" fill="#FFF9EE" stroke="#171717" stroke-width="2" />
     <rect x="0" y="0" width="570" height="6" rx="3" fill="#B87932" />
 
     <g transform="translate(24, 24)">
       <rect x="0" y="0" width="102" height="22" rx="4" fill="#FFF3DF" stroke="#171717" stroke-width="1.5" />
-      <text x="10" y="15" class="tag-text" fill="#171717">03 / PROJECT</text>
+      <text x="10" y="15" class="tag-text" fill="#171717">05 / PROJECT</text>
 
       <g transform="translate(390, 0)">
         <rect x="0" y="0" width="132" height="22" rx="4" fill="#171717" />
@@ -126,68 +187,7 @@
     </g>
   </g>
 
-  <!-- CARD 04: YOJANA.AI -->
-  <g transform="translate(632, 375)">
-    <rect x="4" y="4" width="526" height="215" rx="14" fill="#171717" />
-    <rect x="0" y="0" width="526" height="215" rx="14" fill="#FFF9EE" stroke="#171717" stroke-width="2" />
-    <rect x="0" y="0" width="526" height="6" rx="3" fill="#B87932" />
-
-    <g transform="translate(24, 24)">
-      <rect x="0" y="0" width="102" height="22" rx="4" fill="#FFF3DF" stroke="#171717" stroke-width="1.5" />
-      <text x="10" y="15" class="tag-text" fill="#171717">04 / PROJECT</text>
-
-      <g transform="translate(346, 0)">
-        <rect x="0" y="0" width="132" height="22" rx="4" fill="#171717" />
-        <text x="12" y="15" class="btn-lbl" fill="#FFF9EE">VIEW PROJECT →</text>
-      </g>
-
-      <text x="0" y="54" class="card-title">YOJANA.AI</text>
-
-      <text x="0" y="80" class="card-desc">Intelligent policy and scheme discovery platform driven by citizen</text>
-      <text x="0" y="100" class="card-desc">context and natural language processing.</text>
-
-      <g transform="translate(0, 130)">
-        <text x="0" y="12" class="card-focus-lbl">FOCUS</text>
-        <text x="0" y="30" class="card-focus-val" fill="#B87932">GOVTECH + NLP</text>
-
-        <text x="210" y="12" class="card-focus-lbl">KEY CAPABILITY</text>
-        <text x="210" y="30" class="card-focus-val" fill="#171717">SEMANTIC CITIZEN DISCOVERY</text>
-      </g>
-    </g>
-  </g>
-
-  <!-- ROW 3: MEDICINE REMINDER PRO (x=42, y=605, w=570, h=215) & MEDIGUARD AI (x=632, y=605, w=526, h=215) -->
-  <!-- CARD 05: MEDICINE REMINDER PRO -->
-  <g transform="translate(42, 605)">
-    <rect x="4" y="4" width="570" height="215" rx="14" fill="#171717" />
-    <rect x="0" y="0" width="570" height="215" rx="14" fill="#FFF9EE" stroke="#171717" stroke-width="2" />
-    <rect x="0" y="0" width="570" height="6" rx="3" fill="#C95F45" />
-
-    <g transform="translate(24, 24)">
-      <rect x="0" y="0" width="102" height="22" rx="4" fill="#FFF3DF" stroke="#171717" stroke-width="1.5" />
-      <text x="10" y="15" class="tag-text" fill="#171717">05 / PROJECT</text>
-
-      <g transform="translate(390, 0)">
-        <rect x="0" y="0" width="132" height="22" rx="4" fill="#171717" />
-        <text x="12" y="15" class="btn-lbl" fill="#FFF9EE">VIEW PROJECT →</text>
-      </g>
-
-      <text x="0" y="54" class="card-title">MEDICINE REMINDER PRO</text>
-
-      <text x="0" y="80" class="card-desc">Intelligent medication management and adherence tracking</text>
-      <text x="0" y="100" class="card-desc">with smart alerts and notifications.</text>
-
-      <g transform="translate(0, 130)">
-        <text x="0" y="12" class="card-focus-lbl">FOCUS</text>
-        <text x="0" y="30" class="card-focus-val" fill="#C95F45">HEALTHTECH + PWA</text>
-
-        <text x="250" y="12" class="card-focus-lbl">KEY CAPABILITY</text>
-        <text x="250" y="30" class="card-focus-val" fill="#171717">PWA ALERTS &amp; LOGGING</text>
-      </g>
-    </g>
-  </g>
-
-  <!-- CARD 06: MEDIGUARD AI -->
+  <!-- CARD 06: LEETSYNC -->
   <g transform="translate(632, 605)">
     <rect x="4" y="4" width="526" height="215" rx="14" fill="#171717" />
     <rect x="0" y="0" width="526" height="215" rx="14" fill="#FFF9EE" stroke="#171717" stroke-width="2" />
@@ -202,17 +202,17 @@
         <text x="12" y="15" class="btn-lbl" fill="#FFF9EE">VIEW PROJECT →</text>
       </g>
 
-      <text x="0" y="54" class="card-title">MEDIGUARD AI</text>
+      <text x="0" y="54" class="card-title">LEETSYNC</text>
 
-      <text x="0" y="80" class="card-desc">Automated prescription validation and clinical interaction</text>
-      <text x="0" y="100" class="card-desc">safety checker powered by ML.</text>
+      <text x="0" y="80" class="card-desc">Customizable Chrome extension automatically syncing LeetCode</text>
+      <text x="0" y="100" class="card-desc">submissions to GitHub with multi-language &amp; approach tracking.</text>
 
       <g transform="translate(0, 130)">
         <text x="0" y="12" class="card-focus-lbl">FOCUS</text>
-        <text x="0" y="30" class="card-focus-val" fill="#171717">HEALTHCARE + ML</text>
+        <text x="0" y="30" class="card-focus-val" fill="#171717">DEV TOOLS + EXTENSION</text>
 
         <text x="210" y="12" class="card-focus-lbl">KEY CAPABILITY</text>
-        <text x="210" y="30" class="card-focus-val" fill="#FFB000">DRUG INTERACTION CHECK</text>
+        <text x="210" y="30" class="card-focus-val" fill="#FFB000">SUBMISSION SYNC ENGINE</text>
       </g>
     </g>
   </g>

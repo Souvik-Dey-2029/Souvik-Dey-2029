@@ -13,7 +13,7 @@
 <img src="./assets/stack.svg?v=10" width="100%" alt="Technical Skills: Languages (C, C++, Java, Python, JavaScript), Web &amp; Applications (HTML5, CSS3, JavaScript, React, Node.js, FastAPI), AI/ML &amp; Data (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow / TensorFlow.js, Machine Learning), Databases &amp; Tools (MongoDB, Git, GitHub, VS Code), Cloud &amp; Deployment (Render, Vercel, Google Cloud, PWA)." />
 
 <a href="https://souvikdey.me/projects">
-  <img src="./assets/projects.svg?v=3" width="100%" alt="Souvik Dey — Selected Work: Things I've Built (BharatFarm, GrihaDarpan, ResQAI, Yojana.AI, Medicine Reminder Pro, MediGuard AI)" />
+  <img src="./assets/projects.svg?v=5" width="100%" alt="Souvik Dey — Selected Work: Things I've Built (BharatFarm, The Tale of NASA's Forgotten Legacy, ExploitReplay, The IPLMind Game, ResQAI, LeetSync)" />
 </a>
 
 <div align="center">
@@ -26,9 +26,21 @@
         </a>
       </td>
       <td align="center">
-        <b>GrihaDarpan</b><br/>
+        <b>NASA's Forgotten Legacy</b><br/>
         <a href="https://souvikdey.me/projects">
-          <img src="https://img.shields.io/badge/Project-Explore%20%E2%86%92-E85D3F?style=flat-square&labelColor=171717" alt="GrihaDarpan Explore" />
+          <img src="https://img.shields.io/badge/Project-Explore%20%E2%86%92-C95F45?style=flat-square&labelColor=171717" alt="The Tale of NASA's Forgotten Legacy Explore" />
+        </a>
+      </td>
+      <td align="center">
+        <b>ExploitReplay</b><br/>
+        <a href="https://github.com/Souvik-Dey-2029/ExploitReplay">
+          <img src="https://img.shields.io/github/stars/Souvik-Dey-2029/ExploitReplay?style=flat-square&label=%E2%98%85%20Stars&color=FFB000&labelColor=171717" alt="ExploitReplay Live Stars" />
+        </a>
+      </td>
+      <td align="center">
+        <b>The IPLMind Game</b><br/>
+        <a href="https://github.com/Souvik-Dey-2029/iplmind">
+          <img src="https://img.shields.io/github/stars/Souvik-Dey-2029/iplmind?style=flat-square&label=%E2%98%85%20Stars&color=FFB000&labelColor=171717" alt="The IPLMind Game Live Stars" />
         </a>
       </td>
       <td align="center">
@@ -38,21 +50,9 @@
         </a>
       </td>
       <td align="center">
-        <b>Yojana.AI</b><br/>
-        <a href="https://github.com/Souvik-Dey-2029/Yojana.AI">
-          <img src="https://img.shields.io/github/stars/Souvik-Dey-2029/Yojana.AI?style=flat-square&label=%E2%98%85%20Stars&color=FFB000&labelColor=171717" alt="Yojana.AI Live Stars" />
-        </a>
-      </td>
-      <td align="center">
-        <b>Medicine Reminder</b><br/>
-        <a href="https://github.com/Souvik-Dey-2029/Medicine-Reminder">
-          <img src="https://img.shields.io/github/stars/Souvik-Dey-2029/Medicine-Reminder?style=flat-square&label=%E2%98%85%20Stars&color=FFB000&labelColor=171717" alt="Medicine Reminder Live Stars" />
-        </a>
-      </td>
-      <td align="center">
-        <b>MediGuard AI</b><br/>
-        <a href="https://souvikdey.me/projects">
-          <img src="https://img.shields.io/badge/Project-Explore%20%E2%86%92-171717?style=flat-square&labelColor=6B6255" alt="MediGuard AI Explore" />
+        <b>LeetSync</b><br/>
+        <a href="https://github.com/Souvik-Dey-2029/LeetSync">
+          <img src="https://img.shields.io/github/stars/Souvik-Dey-2029/LeetSync?style=flat-square&label=%E2%98%85%20Stars&color=FFB000&labelColor=171717" alt="LeetSync Live Stars" />
         </a>
       </td>
     </tr>
