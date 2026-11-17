@@ -105,7 +105,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/transmission-divider.svg?v=1" width="100%" alt="Terminal Transition Divider" />
+  <img src="./assets/transmission-divider.gif" width="100%" alt="Terminal Transition Divider" />
 </p>
 
-<img src="./assets/final-transmission.svg?v=1" width="100%" alt="The Final Transmission — The Architect Never Stops Building." />
+<img src="./assets/final-transmission.gif" width="100%" alt="The Final Transmission — The Architect Never Stops Building." />
