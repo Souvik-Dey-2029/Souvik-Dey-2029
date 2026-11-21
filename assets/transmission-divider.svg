@@ -1,45 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="44" viewBox="0 0 1200 44" role="img" aria-label="Terminal Transition Divider">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" role="img" aria-label="Terminal Hairline Divider">
   <defs>
-    <linearGradient id="div-line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="min-div" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#FFB000" stop-opacity="0" />
-      <stop offset="20%" stop-color="#B87932" stop-opacity="0.3" />
-      <stop offset="42%" stop-color="#FFB000" stop-opacity="0.8" />
-      <stop offset="50%" stop-color="#FFF9EE" stop-opacity="1" />
-      <stop offset="58%" stop-color="#FFB000" stop-opacity="0.8" />
-      <stop offset="80%" stop-color="#B87932" stop-opacity="0.3" />
+      <stop offset="35%" stop-color="#3D352E" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#FFB000" stop-opacity="0.9" />
+      <stop offset="65%" stop-color="#3D352E" stop-opacity="0.4" />
       <stop offset="100%" stop-color="#FFB000" stop-opacity="0" />
     </linearGradient>
-    <style>
-      .mono { font-family: 'JetBrains Mono', 'Consolas', 'Courier New', monospace; font-size: 10.5px; font-weight: 700; letter-spacing: 2px; }
-    </style>
   </defs>
-
-  <!-- Horizontal Guide Line -->
-  <line x1="20" y1="22" x2="1180" y2="22" stroke="url(#div-line)" stroke-width="2" />
-  
-  <!-- Technical Tick Marks -->
-  <g stroke="#B87932" stroke-width="1.5" opacity="0.6">
-    <line x1="120" y1="16" x2="120" y2="28" />
-    <line x1="240" y1="18" x2="240" y2="26" />
-    <line x1="360" y1="16" x2="360" y2="28" />
-    <line x1="840" y1="16" x2="840" y2="28" />
-    <line x1="960" y1="18" x2="960" y2="26" />
-    <line x1="1080" y1="16" x2="1080" y2="28" />
-  </g>
-
-  <!-- Central Badge -->
-  <g transform="translate(600, 22)">
-    <rect x="-142" y="-14" width="284" height="28" rx="6" fill="#000000" opacity="0.5" />
-    <rect x="-145" y="-16" width="290" height="32" rx="6" fill="#1C1815" stroke="#3D352E" stroke-width="1.5" />
-    
-    <!-- Accent side brackets -->
-    <path d="M -145 -6 L -145 6" stroke="#FFB000" stroke-width="3" />
-    <path d="M 145 -6 L 145 6" stroke="#FFB000" stroke-width="3" />
-    
-    <!-- Pulsing Node LEDs -->
-    <circle cx="-124" cy="0" r="3.5" fill="#FFB000" />
-    <circle cx="124" cy="0" r="3.5" fill="#FFB000" />
-    
-    <text x="0" y="4" text-anchor="middle" class="mono" fill="#FFF9EE">SEC_08 // THE FINAL TRANSMISSION</text>
-  </g>
+  <line x1="80" y1="12" x2="1120" y2="12" stroke="url(#min-div)" stroke-width="1.2" />
+  <circle cx="600" cy="12" r="2.5" fill="#FFB000" />
 </svg>
